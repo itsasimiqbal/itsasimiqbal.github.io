@@ -15,7 +15,7 @@ html, body {
 }
 
 .wrapper {
-  background-color: lightpink;
+  background-color: white;
   
   max-width: 50%;
   display: flex;
@@ -24,7 +24,7 @@ html, body {
 }
 
 .left, .right {
-  background-color: lightblue;
+  background-color: white;
   
   margin: 5px;
   max-width: 50%;
