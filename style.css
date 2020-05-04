@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url("https://sciglow.com/wp-content/uploads/NMI_sample_1.jpg") no-repeat;
+  background: <img src="img/profile.jpg" alt="" class="box-img"> no-repeat;
   background-size: cover;
 }
 .box{
