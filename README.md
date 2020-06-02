@@ -1,1 +1,1 @@
-<img align="left" width="10" height="10" src="/img/github-logo-new.png"> Hello I am there
+<img align="left" width="15" height="15" src="/img/github-logo-new.png"> Hello I am there
