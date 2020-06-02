@@ -17,9 +17,7 @@
     <br> UZH|ETH Zürich
   </h5>
   <p>
-    I am a machine learning researcher and I work on the intersection of neuroscience and deep learning.
-    <img src="img/profile.jpg" alt="" class="box-img">
-    I am passionate for building scalable deep learning systems inspired by the mammalian brain and I aspire to understand the computational principles of the brain with the lens of deep learning.
+    I am a machine learning researcher and I work on the intersection of neuroscience and deep learning. I am passionate for building scalable deep learning systems inspired by the mammalian brain and I aspire to understand the computational principles of the brain with the lens of deep learning.
   </p>
 <ul>
 <li><a href="https://scholar.google.com/citations?user=zjeLzuUAAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google fa-lg" aria-hidden="true"></i></a></li>
