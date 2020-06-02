@@ -1,6 +1,6 @@
 # About Me:
 <p> I am working as a Postdoctoral Researcher on the intersection of neuroscience and machine learning at 
-<a href="https://scholar.google.com/citations?user=zjeLzuUAAAAJ&hl=en&oi=ao"><img src="/img/google-logo-new.png" height="80" width="80" /></a>  
+<a href="https://scholar.google.com/citations?user=zjeLzuUAAAAJ&hl=en&oi=ao"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" height="80" width="80" /></a>  
   <href="https://scholar.google.com/citations?user=zjeLzuUAAAAJ&hl=en&oi=ao">img align="center" width="125" height="20" src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg"> where I am currently</p>
 
 # Research Interests:
