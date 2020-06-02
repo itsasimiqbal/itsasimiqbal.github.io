@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "air"
 title: Asim Iqbal, PhD
 logo: img/profile.jpg
 description: AI Neuroscientist, UZH|ETH Zürich
