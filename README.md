@@ -39,8 +39,15 @@
 <p>- Neuromorphic Engineering</p>
 
 ## Publications:
-<p><img align="center" width="15" height="15" src="/img/github-logo-new.png">&nbsp;Hello I am there</p>
+<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).</p>
+
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Nature Scientific Reports</i></b> 9, no. 1 (2019): 1-13.</p>
+
+<p><b>Asim Iqbal</b>, Phil Dong, Christopher M. Kim, and Heeun Jang. "Decoding neural responses in mouse visual cortex through a deep neural network." In <b><i>International Joint Conference on Neural Networks (IJCNN)</b></i>, pp. 1-7. IEEE, 2019.</p>
+
+<p><b>Asim Iqbal</b>, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." <b><i>Nature Machine Intelligence</i></b> 1, no. 6 (2019): 277-287.</p>
+
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).</p>
 
 ## Projects:
-<p><img align="center" width="15" height="15" src="/img/github-logo-new.png">&nbsp;Hello I am there</p>
-<p><img align="center" width="15" height="15" src="/img/github-logo-new.png">&nbsp;Hello I am there</p>
+<p>Coming soon</p>
