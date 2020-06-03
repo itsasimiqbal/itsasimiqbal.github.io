@@ -52,6 +52,9 @@ My research interests broadly categorize in the following:
 
 <p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).</p>
 
+## News:
+<p>Coming soon</p>
+
 ## Projects:
 <p>Coming soon</p>
 
@@ -60,3 +63,4 @@ My research interests broadly categorize in the following:
 
 ## Teaching:
 <p>Coming soon</p>
+
