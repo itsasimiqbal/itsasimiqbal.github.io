@@ -9,7 +9,7 @@
   ), Department of IT and Electrical Engineering (D-ITET), ETH Zurich and worked on enhancing scale-invariance in a convolutional neural network by introducing a neuro-inspired layer that mimics the functionality of complex neurons in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by Prof. Shih-Chii Liu, Prof. Tobi Delbruck and Prof. Rodney Douglas.</p>
 
 <p> From Summer 2019 to Spring 2020, I worked as an Artificial Intelligence (AI) Resident on a NeuroMoonshot at 
-  <a href="https://x.company/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Google_X_Logo.png" width="52" height="20" /> </a>
+  <a href="https://x.company/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Google_X_Logo.png" width="62" height="25" /> </a>
   - The Moonshot Factory, Mountain View, California.
 </p>
 
@@ -20,11 +20,21 @@
   in Seattle, Washington and worked on developing a deep neural network-based decoder to predict neural responses in mouse visual cortex
 </p>
 
-<p> In Summer of 2016, I worked as a Research Intern on classification of hand gestures through deep learning and its implementation on TrueNorth neuromorphic chip at 
-  <a href="https://www.research.ibm.com/"><img src="https://www.swissre.com/.imaging/default/dam/institute/images-sri/images-sri-events/IBM-Research.jpg/jcr:content.jpg" width="92" height="12" />
+<p> In Summer of 2016, I worked as a Research Intern with Brain-inspired Computing group on classification of hand gestures through deep learning and its implementation on TrueNorth neuromorphic chip at 
+  <a href="https://www.research.ibm.com/"><img src="https://www.swissre.com/.imaging/default/dam/institute/images-sri/images-sri-events/IBM-Research.jpg/jcr:content.jpg" width="92" height="11" />
   </a>
   - Almaden, San Jose, California.
 </p>
+
+<p> From Spring 2015 to Spring 2016, I worked as a Visiting Researcher in DiCarlo's lab, Brain and Cognitive Sciences Department, 
+  <a href="https://www.research.ibm.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJ0UKzPzeOq8hLQ7NdysyCoPQz48POamklPngbCqxXfVqLw0-&usqp=CAU" width="72" height="20" />
+  </a>
+  , Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimzed deep neural networks.
+</p>
+
+
+
+
 
 
 ## Research Interests:
