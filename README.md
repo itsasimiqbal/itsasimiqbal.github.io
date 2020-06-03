@@ -51,3 +51,9 @@
 
 ## Projects:
 <p>Coming soon</p>
+
+## Code:
+<p>Coming soon</p>
+
+## Teaching:
+<p>Coming soon</p>
