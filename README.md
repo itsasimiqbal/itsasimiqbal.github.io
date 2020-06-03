@@ -4,7 +4,7 @@
 
 <p>Before starting my PhD, I did Masters in Neural Systems and Computation at Institute of Neuroinformatics (INI), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on enhancing scale-invariance in a convolutional neural network by introducing a neuro-inspired layer that mimics the functionality of complex neurons in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by Prof. Shih-Chii Liu, Prof. Tobi Delbruck and Prof. Rodney Douglas.</p>
 
-<p><img align="center" width="75" height="75" src="/img/github-logo-new.png">&nbsp;Hello I am there</p>
+<p><img align="center" width="75" height="75" src="/img/github-logo-new.png">&nbsp;Before starting my PhD, I did Masters in Neural Systems and Computation at Institute of Neuroinformatics (INI), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on enhancing scale-invariance in a convolutional neural network by introducing a neuro-inspired layer that mimics the functionality of complex neurons in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by Prof. Shih-Chii Liu, Prof. Tobi Delbruck and Prof. Rodney Douglas.</p>
 
 
 ## Research Interests:
