@@ -8,9 +8,12 @@
 
 <p> Before starting my PhD, I did Masters in Neural Systems and Computation at Institute of Neuroinformatics (
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
-  ), Department of IT and Electrical Engineering (D-ITET), 
-  <a href="http://www.ini.ethz.ch/"><img src="/img/ETH-logo.png" width=55" height="15" /> </a>
-  and worked on enhancing scale-invariance in a convolutional neural network by introducing a neuro-inspired layer that mimics the functionality of complex neurons in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by Prof. Shih-Chii Liu, Prof. Tobi Delbruck and Prof. Rodney Douglas.</p>
+  ), Department of IT and Electrical Engineering (D-ITET), ETH Zurich and worked on enhancing scale-invariance in a convolutional neural network by introducing a neuro-inspired layer that mimics the functionality of complex neurons in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by Prof. Shih-Chii Liu, Prof. Tobi Delbruck and Prof. Rodney Douglas.</p>
+
+<p> I worked as an Artificial Intelligence (AI) Resident on a NeuroMoonshot at 
+  <a href="https://x.company/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Google_X_Logo.png" width="52" height="20" /> </a>- The Moonshot Factory.
+
+</p>
 
 
 ## Research Interests:
