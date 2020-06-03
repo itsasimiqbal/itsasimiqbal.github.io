@@ -27,9 +27,8 @@
 </p>
 
 <p> From Spring 2015 to Spring 2016, I worked as a Visiting Researcher in DiCarlo's lab, Brain and Cognitive Sciences Department, 
-  <a href="https://www.research.ibm.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJ0UKzPzeOq8hLQ7NdysyCoPQz48POamklPngbCqxXfVqLw0-&usqp=CAU" width="72" height="20" />
-  </a>
-  , Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimzed deep neural networks.
+  <a href="https://www.research.ibm.com/"><img src="https://www.pngitem.com/pimgs/m/359-3591131_massachusetts-institute-of-technology-logo-png-transparent-png.png" width="72" height="20" />
+  </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimzed deep neural networks.
 </p>
 
 
