@@ -33,10 +33,13 @@
 
 
 ## Research Interests:
+My research interests broadly categorize in the following:
 <p>- Neuro-inspired Artificial Intelligence</p>
 <p>- Neuroimaging</p>
 <p>- Reinforcement Learning</p>
 <p>- Neuromorphic Engineering</p>
+
+<p>In general, I have been working on exploring the functionality of cortical neurons in the developing mouse brain. Some of my recent efforts in this direction has resulted into high-throughput deep learning-based tools to analyse large scale brain imaging datasets. </p>
 
 ## Publications:
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).</p>
