@@ -14,9 +14,9 @@
 </p>
 
 <p> In Summer of 2018, I attended Summer Workshop on the Dynamic Brain (SWDB) at
-  <a href="https://x.company/"><img src="https://www.alleninstitute.org/static/images/logo_BS_header.png" width="90" height="20" /> </a>
+  <a href="https://alleninstitute.org/what-we-do/brain-science/"><img src="https://www.alleninstitute.org/static/images/logo_BS_header.png" width="90" height="20" /> </a>
   and
-  <a href="https://x.company/"><img src="https://depts.washington.edu/mcklab/images/UW%20logo.jpg" width="90" height="20" /> </a>
+  <a href="https://www.washington.edu/><img src="https://depts.washington.edu/mcklab/images/UW%20logo.jpg" width="90" height="20" /> </a>
   in Seattle, Washington and worked on developing a deep neural network-based decoder to predict neural responses in mouse visual cortex
 </p>
 
@@ -27,7 +27,7 @@
 </p>
 
 <p> From Spring 2015 to Spring 2016, I worked as a Visiting Researcher in DiCarlo's lab, Brain and Cognitive Sciences Department, 
-  <a href="https://www.research.ibm.com/"><img src="https://www.pngitem.com/pimgs/m/359-3591131_massachusetts-institute-of-technology-logo-png-transparent-png.png" width="72" height="20" />
+  <a href="http://web.mit.edu/"><img src="https://www.pngitem.com/pimgs/m/359-3591131_massachusetts-institute-of-technology-logo-png-transparent-png.png" width="72" height="20" />
   </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimzed deep neural networks.
 </p>
 
