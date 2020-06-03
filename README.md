@@ -4,8 +4,6 @@
 
 <a href="url">link text</a>
 
-title: <p style="text-align:center;color:black;" class="view">Asim Iqbal, PhD<br></p>
-
 </p>
 
 
