@@ -2,7 +2,7 @@
 <p>
   I am working as a Postdoctoral Researcher in Computational Neuroscience at
   <a href="https://ethz.ch/en.html"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" /> </a>
-  . Prior to this, I finished my PhD in Computational Neuroscience on the topic: 'Exploring brain-wide development through deep learning' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ) at UZH|ETH Zürich. My PhD thesis was advised by Prof. Theofanis Karayannis along with Prof. Fritjof Helmchen and Prof. Mehmet Fatih Yanik as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
+  . Prior to this, I finished my PhD in Computational Neuroscience on the topic: 'Exploring brain-wide development through deep learning' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), UZH|ETH Zürich. My PhD thesis was advised by Prof. Theofanis Karayannis along with Prof. Fritjof Helmchen and Prof. Mehmet Fatih Yanik as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
 
 <p> Before starting my PhD, I did Masters in Neural Systems and Computation at Institute of Neuroinformatics (
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
@@ -33,7 +33,7 @@
 
 
 ## Research Interests:
-My research interests broadly categorize in the following:
+My research interests broadly categorize into the following:
 <p>- Neuro-inspired Artificial Intelligence</p>
 <p>- Neuroimaging</p>
 <p>- Reinforcement Learning</p>
@@ -64,3 +64,5 @@ My research interests broadly categorize in the following:
 ## Teaching:
 <p>Coming soon</p>
 
+## Thoughts:
+<p>Coming soon</p>
