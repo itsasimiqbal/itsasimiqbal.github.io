@@ -42,15 +42,15 @@ My research interests broadly categorize into the following:
 <p>In general, I have been working on exploring the functionality of cortical neurons in the developing mouse brain. Some of my recent efforts in this direction has resulted into high-throughput deep learning-based tools to analyse large scale brain imaging datasets. </p>
 
 ## Publications:
-<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf">[link]</a></p>
+<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:green">[link]</a></p>
 
-<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Nature Scientific Reports</i></b> 9, no. 1 (2019): 1-13.<a href="https://rdcu.be/b4DfY">[link]</a></p>
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Nature Scientific Reports</i></b> 9, no. 1 (2019): 1-13.<a href="https://rdcu.be/b4DfY" style="color:green">[link]</a></p>
 
-<p><b>Asim Iqbal</b>, Phil Dong, Christopher M. Kim, and Heeun Jang. "Decoding neural responses in mouse visual cortex through a deep neural network." In <b><i>International Joint Conference on Neural Networks (IJCNN)</i></b>, pp. 1-7. IEEE, 2019.<a href="https://arxiv.org/pdf/1911.05479.pdf">[link]</a></p>
+<p><b>Asim Iqbal</b>, Phil Dong, Christopher M. Kim, and Heeun Jang. "Decoding neural responses in mouse visual cortex through a deep neural network." In <b><i>International Joint Conference on Neural Networks (IJCNN)</i></b>, pp. 1-7. IEEE, 2019.<a href="https://arxiv.org/pdf/1911.05479.pdf" style="color:green">[link]</a></p>
 
-<p><b>Asim Iqbal</b>, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." <b><i>Nature Machine Intelligence</i></b> 1, no. 6 (2019): 277-287.<a href="https://rdcu.be/b4DfW">[link]</a></p>
+<p><b>Asim Iqbal</b>, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." <b><i>Nature Machine Intelligence</i></b> 1, no. 6 (2019): 277-287.<a href="https://rdcu.be/b4DfW" style="color:green">[link]</a></p>
 
-<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:red">[link]</a></p>
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:green">[link]</a></p>
 
 ## News:
 <p>Coming soon</p>
