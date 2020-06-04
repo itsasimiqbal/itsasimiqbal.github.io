@@ -50,7 +50,11 @@ My research interests broadly categorize into the following:
 
 <p><b>Asim Iqbal</b>, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." <b><i>Nature Machine Intelligence</i></b> 1, no. 6 (2019): 277-287.<a href="https://rdcu.be/b4DfW">[link]</a></p>
 
-<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).</p><p style="color:red">href="https://arxiv.org/pdf/1807.03238.pdf">[link]</p>
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).</p><a style="color:red">href="https://arxiv.org/pdf/1807.03238.pdf">[link]</a>
+
+<body>
+  <a href="http://example.com/" style="color:#FF0000;">Red Link</a>
+</body>
 
 ## News:
 <p>Coming soon</p>
