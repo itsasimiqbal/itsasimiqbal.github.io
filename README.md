@@ -57,8 +57,8 @@ My research interests broadly categorize into the following:
 
 ## Projects:
 #### [SeBRe]: Segmenting Brain Regions with deep learning
-<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="295" height="200" /> </a>
-  <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="156" height="200" /> </a>
+<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="345" height="220" /> </a>
+  <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="176" height="220" /> </a>
 </p>
 
 <p>
@@ -67,7 +67,6 @@ We introduce a concept of <b>registration through segmentation</b>, we train a d
   <a href="https://rdcu.be/b4DfW" style="color:green"><b>[paper]</b></a> 
   <a href="https://github.com/itsasimiqbal/SeBRe" style="color:green"><b>[code]</b></a>
 </p>
-<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="centre" width="295" height="370" /> </a></p>
 
 ## Code:
 <p>Coming soon</p>
