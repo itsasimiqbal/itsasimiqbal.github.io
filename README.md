@@ -57,8 +57,8 @@ My research interests broadly categorize into the following:
 
 ## Projects:
 #### [SeBRe]: Segmenting Brain Regions with deep learning
-<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="345" height="220" /> </a>
-  <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="176" height="220" /> </a>
+<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
+  <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
 </p>
 
 <p>
