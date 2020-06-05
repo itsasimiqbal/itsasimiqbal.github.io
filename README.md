@@ -52,23 +52,27 @@ My research interests broadly categorize into the following:
 
 <p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:green"><b>[paper]</b></a></p>
 
-## News:
-<p>Coming soon</p>
-
 ## Projects:
 #### [SeBRe]: Segmenting Brain Regions with deep learning
-<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
+<p><a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
   <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
 </p>
 
 <p>
   One of the main challenges faced by biologists in general and neuroscientists in partcular is to register mouse/human brain section images to a standard reference atlas. It requires an anatomical expert with a basic training to recognise and precisely annotate brain regions which is a very time consuming and exhausting process. Although, transformation algorithms have tackeled the automdated brain image registration problem to a large extent but they still require fine tuning of parameters for an unseen brain section image. This fine tuning easily takes hours as these algorithms are just trying to minimise a cost function to match the input image to a reference image. Furthermore, these algorithms are prone to errors and cannot simple work if any brain region is missing or distorted.
 We introduce a concept of <b>registration through segmentation</b>, we train a deep learning model for instance segmentation to classify and segment all the brain regions in a given image with high accuracy. This approach is independent of data modality and can also serve to help generate an atlas for brain ages on which no atlas is available. Hence, developing a brain atlas through deep learning. Our study is published in Nature Machine Intelligence and made it to the cover of the journal. 
-  <a href="https://rdcu.be/b4DfW" style="color:green"><b>[paper]</b></a> 
-  <a href="https://github.com/itsasimiqbal/SeBRe" style="color:green"><b>[code]</b></a>
+  <a href="https://rdcu.be/b4DfW" style="color:purple"><b>[paper]</b></a> 
+  <a href="https://github.com/itsasimiqbal/SeBRe" style="color:purple"><b>[code]</b></a>
 </p>
 
 ## Code:
+<p>
+  1. 
+<a href="https://github.com/itsasimiqbal/SeBRe" style="color:purple"><b>Developing a brain atlas through deep learning</b></a>
+
+</p>
+
+## News:
 <p>Coming soon</p>
 
 ## Teaching:
