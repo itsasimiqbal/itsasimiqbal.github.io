@@ -57,7 +57,9 @@ My research interests broadly categorize into the following:
 
 ## Projects:
 #### [SeBRe]: Segmenting Brain Regions with deep learning
-<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="centre" width="295" height="200" /> </a></p>
+<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="295" height="200" /> </a>
+  <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="295" height="370" /> </a>
+</p>
 
 <p>
   One of the main challenges faced by biologists in general and neuroscientists in partcular is to register mouse/human brain section images to a standard reference atlas. It requires an anatomical expert with a basic training to recognise and precisely annotate brain regions which is a very time consuming and exhausting process. Although, transformation algorithms have tackeled the automdated brain image registration problem to a large extent but they still require fine tuning of parameters for an unseen brain section image. This fine tuning easily takes hours as these algorithms are just trying to minimise a cost function to match the input image to a reference image. Furthermore, these algorithms are prone to errors and cannot simple work if any brain region is missing or distorted.
