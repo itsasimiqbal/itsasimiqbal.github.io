@@ -32,6 +32,9 @@
 </p>
 
 
+
+
+
 ## Research Interests:
 My research interests broadly categorize into the following:
 <p>- Neuro-inspired Artificial Intelligence</p>
@@ -40,6 +43,10 @@ My research interests broadly categorize into the following:
 <p>- Neuromorphic Engineering</p>
 
 <p>In general, I have been working on exploring the functionality of cortical neurons in the developing mouse brain. Some of my recent efforts in this direction has resulted into high-throughput deep learning-based tools to analyse large scale brain imaging datasets. </p>
+
+
+
+
 
 ## Publications:
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:green"><b>[paper]</b></a></p>
@@ -52,7 +59,13 @@ My research interests broadly categorize into the following:
 
 <p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:green"><b>[paper]</b></a></p>
 
+
+
+
+
 ## Research Projects:
+
+
 #### [SeBRe]: Segmenting Brain Regions with deep learning
 <p><a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
   <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
@@ -70,7 +83,12 @@ Asim Iqbal, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas thr
 Nature Machine Intelligence 1.6 (2019): 277-287.
 ```
 
+
 #### [DeNeRD]: Detecting Neurons in Regions of Developing brain
+
+
+
+
 
 ## Code:
 <p>
@@ -79,11 +97,23 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 </p>
 
+
+
+
+
 ## News:
 <p>Coming soon</p>
 
+
+
+
+
 ## Teaching:
 <p>Coming soon</p>
+
+
+
+
 
 ## Thoughts:
 <p>Coming soon</p>
