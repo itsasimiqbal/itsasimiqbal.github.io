@@ -52,7 +52,7 @@ My research interests broadly categorize into the following:
 
 <p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:green"><b>[paper]</b></a></p>
 
-## Projects:
+## Research Projects:
 #### [SeBRe]: Segmenting Brain Regions with deep learning
 <p><a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
   <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
@@ -64,6 +64,13 @@ We introduce a concept of <b>registration through segmentation</b>, we train a d
   <a href="https://rdcu.be/b4DfW" style="color:purple"><b>[paper]</b></a> 
   <a href="https://github.com/itsasimiqbal/SeBRe" style="color:purple"><b>[code]</b></a>
 </p>
+
+```
+Asim Iqbal, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." 
+Nature Machine Intelligence 1.6 (2019): 277-287.
+```
+
+#### [DeNeRD]: Detecting Neurons in Regions of Developing brain
 
 ## Code:
 <p>
