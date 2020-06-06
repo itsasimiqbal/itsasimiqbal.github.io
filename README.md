@@ -68,7 +68,7 @@ We introduce a concept of <b>registration through segmentation</b>, we train a d
 ## Code:
 <p>
   1. 
-<a href="https://github.com/itsasimiqbal/SeBRe" style="color:purple";"font-family:Roboto"><b>Developing a brain atlas through deep learning</b></a>
+<a href="https://github.com/itsasimiqbal/SeBRe" style="color:purple"><b>Developing a brain atlas through deep learning</b></a>
 
 </p>
 
