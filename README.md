@@ -1,7 +1,7 @@
 ## About Me:
 <p>
   I am working as a Postdoctoral Researcher in Computational Neuroscience at
-  <a href="https://ethz.ch/en.html"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" /> </a>
+  <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" /> </a>
   . Prior to this, I finished my PhD in Computational Neuroscience on the topic: 'Exploring brain-wide development through deep learning' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), UZH|ETH Zürich. My PhD thesis was advised by Prof. Theofanis Karayannis along with Prof. Fritjof Helmchen and Prof. Mehmet Fatih Yanik as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
 
 <p> Before starting my PhD, I did Masters in Neural Systems and Computation at Institute of Neuroinformatics (
@@ -114,19 +114,19 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 
 ## Teaching:
-##### Courses Taught:
-<p> 1. Neuroscience Block Course (Spring 2019), UZH/ETH Zurich</p>
-<p> 2. Programming in Biology (Fall 2018), UZH/ETH Zurich</p>
-<p> 3. Neuroscience Block Course (Spring 2017), UZH/ETH Zurich</p>
+#### Courses Taught:
+- Neuroscience Block Course (Spring 2019), UZH/ETH Zurich
+- Programming in Biology (Fall 2018), UZH/ETH Zurich
+- Neuroscience Block Course (Spring 2017), UZH/ETH Zurich
 
-##### Supervised Students:
-<p> 1. Romesa Khan (M.Sc. Neuroscience, ETH Zurich) - Master Thesis </p>
-<p> 2. Asfandyar Shiekh (B.Sc. Electrical Engineering, ETH Zurich) - Internship </p>
-<p> 3. Markus Suter (M.Sc. Neuroscience, UZH) Master Thesis Co-supervised</p>
-<p> 4. Laurens Bohlen (M.Sc. Neuroscience, UZH) Neuroscience Block Course </p>
-<p> 5. Victor Ibañez (M.Sc. Neuroscience, UZH) Neuroscience Block Course </p>
-<p> 6. Andrin Abegg (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course </p>
-<p> 7. Michel Schmidlin (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course </p>
+#### Supervised Students:
+- Romesa Khan (M.Sc. Neuroscience, ETH Zurich) - Master Thesis
+- Asfandyar Shiekh (B.Sc. Electrical Engineering, ETH Zurich) - Internship
+- Markus Suter (M.Sc. Neuroscience, UZH) Master Thesis Co-supervised
+- Laurens Bohlen (M.Sc. Neuroscience, UZH) Neuroscience Block Course
+- Victor Ibañez (M.Sc. Neuroscience, UZH) Neuroscience Block Course
+- Andrin Abegg (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course
+- Michel Schmidlin (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course
 
 
 
