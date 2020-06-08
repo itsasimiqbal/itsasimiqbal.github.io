@@ -9,7 +9,8 @@
   ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on enhancing scale-invariance in a convolutional neural network by introducing a neuro-inspired layer that mimics the functionality of complex neurons in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by Prof. Shih-Chii Liu, Prof. Tobi Delbruck and Prof. Rodney Douglas.</p>
 
 <p> From Summer 2019 to Spring 2020, I worked as an Artificial Intelligence (AI) Resident on a NeuroMoonshot at 
-  <a href="https://x.company/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Google_X_Logo.png" width="62" height="25" /> </a>
+  <a href="https://research.google/"><img src="img/google_logo.png" width="62" height="20" /> </a>
+  <a href="https://x.company/"><img src="img/X.png" width="25" height="22" /> </a>
   - The Moonshot Factory, Mountain View, California.
 </p>
 
