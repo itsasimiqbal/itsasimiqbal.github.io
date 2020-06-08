@@ -128,6 +128,11 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 - Andrin Abegg (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course
 - Michel Schmidlin (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course
 
+#### Interested Students:
+Any undergrad or graduate student in STEM field interested in working with me on topics related to <i>Neuro-inspired Artificial Intelligence</i> then please feel free to reach out to me:
+```
+iqbala{at}ini.ethz.ch
+```
 
 
 
