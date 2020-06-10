@@ -39,7 +39,8 @@
 ## Research Interests:
 My research interests broadly categorize into the following:
 - Neuro-inspired Artificial Intelligence
-- Neuroimaging
+- Neuroimaging with Deep Learning
+- Computer Vision
 - Reinforcement Learning
 - Neuromorphic Engineering
 
@@ -130,7 +131,7 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 - Michel Schmidlin (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course
 
 #### Interested Students:
-Any undergrad or graduate student in STEM field interested in working with me on topics related to <i>Neuro-inspired Artificial Intelligence</i> then please feel free to reach out:
+Any undergrad or graduate student in STEM field interested in working with me on topics related to <b>Neuro-inspired Artificial Intelligence</b> then please feel free to reach out:
 ```
 iqbala{at}ini.ethz.ch
 ```
