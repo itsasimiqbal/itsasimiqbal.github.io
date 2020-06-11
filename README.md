@@ -109,8 +109,7 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 
 ## News:
-<p>Coming soon</p>
-
+<p><a href="https://rdcu.be/b4DfW" style="color:black"><b>SeBRe</b></a> is featured in Singularity Hub <a href="https://singularityhub.com/2019/06/24/how-deep-learning-is-transforming-brain-mapping/"><img src="https://pbs.twimg.com/profile_images/808802669200625664/dgwkn8Yg_400x400.jpg" align="left" width="200" height="200" /> </a></p>
 
 
 
