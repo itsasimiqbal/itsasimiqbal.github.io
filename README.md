@@ -109,7 +109,7 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 
 ## News:
-<p><a href="https://rdcu.be/b4DfW" style="color:black"><b>SeBRe</b></a> is featured in Singularity Hub <a href="https://singularityhub.com/2019/06/24/how-deep-learning-is-transforming-brain-mapping/"><img src="https://pbs.twimg.com/profile_images/808802669200625664/dgwkn8Yg_400x400.jpg" align="left" width="200" height="200" /> </a></p>
+<p><a href="https://rdcu.be/b4DfW" style="color:black"><b>SeBRe</b></a> <a href="https://singularityhub.com/2019/06/24/how-deep-learning-is-transforming-brain-mapping/"><img src="https://pbs.twimg.com/profile_images/808802669200625664/dgwkn8Yg_400x400.jpg" align="right" width="150" height="150" /> </a> is featured in <b>Singularity Hub</b>! "Much like Google Maps, scientists may now have a way to “sync up” their experimental maps with other available resources. And similar to how Google Maps integrates a classic, terrain, street, and satellite view, brain map syncing will undoubtedly paint a much richer landscape of our brain’s landscape and connection highways, in health and disease" </p>
 
 
 
