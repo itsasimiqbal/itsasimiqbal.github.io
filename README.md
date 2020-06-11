@@ -117,6 +117,8 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 - <p><a href="https://rdcu.be/b4DfW" style="color:black"><b>SeBRe</b></a> <a href="https://sciglow.com/developing-brain-maps-through-artificial-intelligence/"><img src="https://sciglow.com/wp-content/uploads/NMI_sample_1-1568x832.jpg" align="right" width="280" height="150" /> </a> is featured in <b>SciGlow</b>! "We demonstrate the performance of SeBRe in segmenting eight regions in mouse and human brains. Our goal is to a utilize the power of AI and develop a high-throughput system to generate the precise maps of brain regions and sub-regions which the neuroscientists can easily navigate through, much like we virtually navigate in different places and streets through Google Maps." </p>
 
+- <p><a href="https://rdcu.be/b4DfW" style="color:black"><b>SeBRe</b></a> <a href="https://rdcu.be/b4Qkm"><img src="https://www.fens.org/Global/Pages/FKNE/Logos%20Publication/Nature%20Methods.png" align="right" width="400" height="100" /> </a> is featured in <b>Nature Methods</b>! "Segmenting and registration of brain imaging datasets can be a tedious and time-consuming task. Iqbal et al. now use a deep learning approach, which they call SeBRe, to facilitate this task for Nissl-stained, fluorescence, and even magnetic resonance image datasets. They trained a deep neural network to segment and classify eight different regions in the mouse brain. After training, SeBRe could segment and register other datasets with a precision of 0.84, and similar performance could be achieved even if the brains were stained for previously unseen markers or imaged with a different microscopy modality." </p>
+
 
 
 ## Teaching:
