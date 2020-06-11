@@ -51,15 +51,15 @@ My research interests broadly categorize into the following:
 
 
 ## Publications (recent):
-<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:purple">[pdf]</a></p>
+<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:black">[pdf]</a></p>
 
-<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Nature Scientific Reports</i></b> 9, no. 1 (2019): 1-13.<a href="https://rdcu.be/b4DfY" style="color:purple">[pdf]</a></p>
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Nature Scientific Reports</i></b> 9, no. 1 (2019): 1-13.<a href="https://rdcu.be/b4DfY" style="color:black">[pdf]</a></p>
 
-<p><b>Asim Iqbal</b>, Phil Dong, Christopher M. Kim, and Heeun Jang. "Decoding neural responses in mouse visual cortex through a deep neural network." In <b><i>International Joint Conference on Neural Networks (IJCNN)</i></b>, pp. 1-7. IEEE, 2019.<a href="https://arxiv.org/pdf/1911.05479.pdf" style="color:purple">[pdf]</a></p>
+<p><b>Asim Iqbal</b>, Phil Dong, Christopher M. Kim, and Heeun Jang. "Decoding neural responses in mouse visual cortex through a deep neural network." In <b><i>International Joint Conference on Neural Networks (IJCNN)</i></b>, pp. 1-7. IEEE, 2019.<a href="https://arxiv.org/pdf/1911.05479.pdf" style="color:black">[pdf]</a></p>
 
-<p><b>Asim Iqbal</b>, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." <b><i>Nature Machine Intelligence</i></b> 1, no. 6 (2019): 277-287.<a href="https://rdcu.be/b4DfW" style="color:purple">[pdf]</a></p>
+<p><b>Asim Iqbal</b>, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." <b><i>Nature Machine Intelligence</i></b> 1, no. 6 (2019): 277-287.<a href="https://rdcu.be/b4DfW" style="color:black">[pdf]</a></p>
 
-<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:purple">[pdf]</a></p>
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:black">[pdf]</a></p>
 
 
 
@@ -76,8 +76,8 @@ My research interests broadly categorize into the following:
 <p>
   One of the main challenges faced by biologists in general and neuroscientists in partcular is to register mouse/human brain section images to a standard reference atlas. It requires an anatomical expert with a basic training to recognise and precisely annotate brain regions which is a very time consuming and exhausting process. Although, transformation algorithms have tackeled the automated brain image registration problem to a large extent but they still require fine tuning of parameters for any unseen brain section image. This fine tuning process easily takes hours as these algorithms are just trying to minimise a cost function to match the input image to a reference image. Furthermore, these algorithms are prone to errors and cannot simply work if any brain region is missing or distorted.
 We introduce a concept of <b>registration through segmentation</b>: we train a deep learning model for instance segmentation to classify and segment all the brain regions in a given image with high accuracy. This approach is independent of data modality and can also serve to help generate an atlas for animal brain ages on which no anatomical atlas is pre-existed. Hence, developing a brain atlas through deep learning. Our study is published in <i>Nature Machine Intelligence</i> and made it to the cover of the journal. 
-  <a href="https://rdcu.be/b4DfW" style="color:purple">[paper]</a> 
-  <a href="https://github.com/itsasimiqbal/SeBRe" style="color:purple">[code]</a>
+  <a href="https://rdcu.be/b4DfW" style="color:black">[paper]</a> 
+  <a href="https://github.com/itsasimiqbal/SeBRe" style="color:black">[code]</a>
 </p>
 
 ```
@@ -95,12 +95,12 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 ## Code:
 <p>
   1. 
-<a href="https://github.com/itsasimiqbal/SeBRe" style="color:purple"><b>Developing a brain atlas through deep learning</b></a>
+<a href="https://github.com/itsasimiqbal/SeBRe" style="color:black"><b>Developing a brain atlas through deep learning</b></a>
 
 </p>
 <p>
   2. 
-<a href="https://github.com/itsasimiqbal/DeNeRD" style="color:purple"><b>DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning</b></a>
+<a href="https://github.com/itsasimiqbal/DeNeRD" style="color:black"><b>DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning</b></a>
 
 </p>
 
