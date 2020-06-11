@@ -36,6 +36,11 @@
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Research Interests:
 My research interests broadly categorize into the following:
 - Neuro-inspired Artificial Intelligence
@@ -50,6 +55,11 @@ My research interests broadly categorize into the following:
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Publications (recent):
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:black">[pdf]</a></p>
 
@@ -63,11 +73,15 @@ My research interests broadly categorize into the following:
 
 
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Research Projects:
 
-
+&nbsp;
+&nbsp;
 #### [SeBRe]: Segmenting Brain Regions with deep learning
 <p><a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
   <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
@@ -86,12 +100,19 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 ```
 
 
+&nbsp;
+&nbsp;
 #### [DeNeRD]: Detecting Neurons in Regions of Development with deep learning
 
 
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Code:
 <p>
   1. 
@@ -108,6 +129,11 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## News:
 - <p><a href="https://rdcu.be/b4DfW" style="color:black"><b>SeBRe</b></a> <a href="https://singularityhub.com/2019/06/24/how-deep-learning-is-transforming-brain-mapping/"><img src="https://pbs.twimg.com/profile_images/808802669200625664/dgwkn8Yg_400x400.jpg" align="right" width="200" height="200" /> </a> is featured by <b>Singularity Hub</b> in <b>How Deep Learning Is Transforming Brain Mapping</b>! "Much like Google Maps, scientists may now have a way to “sync up” their experimental maps with other available resources. And similar to how Google Maps integrates a classic, terrain, street, and satellite view, brain map syncing will undoubtedly paint a much richer landscape of our brain’s landscape and connection highways, in health and disease." </p>
 
@@ -123,6 +149,11 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Teaching:
 #### Courses Taught:
 - Neuroscience Block Course (Spring 2019), UZH/ETH Zurich
@@ -148,5 +179,10 @@ iqbala{at}ini.ethz.ch
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Thoughts:
 <p>Coming soon</p>
