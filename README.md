@@ -41,10 +41,11 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
 ## Education:
-- Ph.D. Computational Neuroscience, UZH|ETH Zurich [2016-2019]
-- M.Sc. Neural Systems and Computation, UZH|ETH Zurich [2013-2015]
-- B.Sc. Electrical Engineering, Punjab University [2006-2010]
+- <p>Ph.D. Computational Neuroscience, UZH|ETH Zurich (2016-2019)</p>
+- <p>M.Sc. Neural Systems and Computation, UZH|ETH Zurich (2013-2015)</p>
+- <p>B.Sc. Electrical Engineering, Punjab University (2006-2010)</p>
 
 
 
@@ -55,6 +56,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
 ## Research Interests:
 My research interests broadly categorize into the following:
 - Neuro-inspired Artificial Intelligence
