@@ -45,6 +45,11 @@
 - Ph.D. Computational Neuroscience, UZH|ETH Zurich [2016-2019]
 - M.Sc. Neural Systems and Computation, UZH|ETH Zurich [2013-2015]
 - B.Sc. Electrical Engineering, Punjab University [2006-2010]
+
+
+
+
+
 &nbsp;
 &nbsp;
 &nbsp;
