@@ -197,4 +197,4 @@ iqbala{at}ini.ethz.ch
 &nbsp;
 &nbsp;
 ## Thoughts:
-<p>Coming soon</p>
+- <p><a href="https://medium.com/@itsasimiqbal/how-to-survive-in-pakistan-amidst-coronavirus-pandemic-d6330e7c0a77" style="color:black"><b>How to survive in Pakistan amidst Coronavirus pandemic?</b></a> <a href="https://medium.com/@itsasimiqbal/how-to-survive-in-pakistan-amidst-coronavirus-pandemic-d6330e7c0a77"><img src="https://miro.medium.com/max/1600/1*NWQ8CuUA0h2SO5Wo8GvWfw.png" align="right" width="80" height="50" /> </a> My thoughts on <b>Medium</b> about the alarming Covid-19 situation in Pakistan. </p>
