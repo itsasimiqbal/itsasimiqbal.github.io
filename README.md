@@ -147,7 +147,7 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 &nbsp;
 &nbsp;
 ## News:
-- <p><a href="https://rdcu.be/b4DfY" style="color:black"><b>DeNeRD</b></a> <a href="https://www.nature.com/collections/cgaefaegbi"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/A84880_SREP_TOP_100_NEUROSCIENCE_HERO_IMAG_1200x675px_Proof1-808a70ae0f814e8b4c19fd1294745bac.jpg" align="right" width="125" height="90" /> </a> is featured by <b>Scientific Reports</b> in <b>Top 100 in Neuroscience</b>!</p>
+- <p><a href="https://rdcu.be/b4DfY" style="color:black"><b>DeNeRD</b></a> <a href="https://www.nature.com/collections/cgaefaegbi"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/A84880_SREP_TOP_100_NEUROSCIENCE_HERO_IMAG_1200x675px_Proof1-808a70ae0f814e8b4c19fd1294745bac.jpg" align="right" width="45" height="40" /> </a> is featured by <b>Scientific Reports</b> in <b>Top 100 in Neuroscience</b>!</p>
 
 - <p><a href="https://rdcu.be/b4DfY" style="color:black"><b>DeNeRD</b></a> <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="https://scx2.b-cdn.net/gfx/news/hires/2019/1-denerdanaiba.jpg" align="right" width="95" height="90" /> </a> is featured by <b>Medical Xpress</b> in <b>DeNeRD: an AI-based method to process whole images of the brain</b>! "In the future, the technique could be used to carry out more in-depth analyses of the mammalian brain rapidly and automatically. Interestingly, DeNeRD's performance is generic, which essentially means that new users do not need to collect new datasets, label them and retrain the neural network before they can use it." </p>
 
