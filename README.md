@@ -96,7 +96,7 @@ My research interests broadly categorize into the following:
 &nbsp;
 ## Research Projects:
 
-#### [SeBRe]: Segmenting Brain Regions with deep learning
+### [SeBRe]: Segmenting Brain Regions with deep learning
 <p><a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
   <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
 </p>
@@ -114,7 +114,7 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 ```
 
 
-#### [DeNeRD]: Detecting Neurons in Regions of Development with deep learning
+### [DeNeRD]: Detecting Neurons in Regions of Development with deep learning
 <p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="https://pbs.twimg.com/media/EFvNDwjWsAEwGyN?format=jpg&name=medium" align="left" width="250" height="140" /> </a>
   <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="https://scx2.b-cdn.net/gfx/news/hires/2019/denerdanaiba.jpg" align="right" width="250" height="120" /> </a>
 </p>
@@ -131,11 +131,11 @@ Asim Iqbal, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput
 Scientific Reports 9.1 (2019): 1-13.
 ```
 
-#### Exploring the functional and anatomical motifs of developing mouse somatosensory cotrtex
-<p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="/img/SST_P12.png" align="left" width="222" height="180" /> </a>
-  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/SST_P21.png" align="right" width="222" height="200" /> </a>
-  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P12.png" align="left" width="222" height="200" /> </a>
-  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P21.png" align="right" width="222" height="180" /> </a>
+### Exploring the functional and anatomical motifs of developing mouse somatosensory cotrtex
+<p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="/img/SST_P12.png" align="center" width="222" height="180" /> </a>
+  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/SST_P21.png" align="center" width="222" height="200" /> </a>
+  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P12.png" align="center" width="222" height="200" /> </a>
+  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P21.png" align="center" width="222" height="180" /> </a>
 </p>
 <p>
   Neurons are captured with variability in shape, size, structure, intensity, etc. which becomes a challenge to detect them for high-throughput analysis of brain section images. We consider it as an object classification and detection problem and generated a ground-truth dataset of thousands of labelled neurons from mouse brain with different imaging modalities and genetic markers. We develop a deep neural network-based architecture to detect neurons in the entire 2D brain sections with high precision.
