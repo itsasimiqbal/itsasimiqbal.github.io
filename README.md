@@ -115,8 +115,8 @@ Nature Machine Intelligence 1.6 (2019): 277-287.
 
 
 #### [DeNeRD]: Detecting Neurons in Regions of Development with deep learning
-<p><a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="https://pbs.twimg.com/media/EFvNDwjWsAEwGyN?format=jpg&name=medium" align="left" width="250" height="140" /> </a>
-  <a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="https://scx2.b-cdn.net/gfx/news/hires/2019/denerdanaiba.jpg" align="right" width="250" height="120" /> </a>
+<p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="https://pbs.twimg.com/media/EFvNDwjWsAEwGyN?format=jpg&name=medium" align="left" width="250" height="140" /> </a>
+  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="https://scx2.b-cdn.net/gfx/news/hires/2019/denerdanaiba.jpg" align="right" width="250" height="120" /> </a>
 </p>
 
 <p>
