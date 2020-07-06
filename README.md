@@ -95,7 +95,8 @@ My research interests broadly categorize into the following:
 &nbsp;
 &nbsp;
 ## Research Projects:
-
+&nbsp;
+&nbsp;
 ### [SeBRe]: Segmenting Brain Regions with deep learning
 <p><a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
   <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
@@ -112,8 +113,8 @@ We introduce a concept of <b>registration through segmentation</b>: we train a d
 Asim Iqbal, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." 
 Nature Machine Intelligence 1.6 (2019): 277-287.
 ```
-
-
+&nbsp;
+&nbsp;
 ### [DeNeRD]: Detecting Neurons in Regions of Development with deep learning
 <p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="https://pbs.twimg.com/media/EFvNDwjWsAEwGyN?format=jpg&name=medium" align="left" width="250" height="140" /> </a>
   <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="https://scx2.b-cdn.net/gfx/news/hires/2019/denerdanaiba.jpg" align="right" width="250" height="120" /> </a>
@@ -130,25 +131,31 @@ Our study is published in <i>Scientific Reports</i> and made it to the <i>Top 10
 Asim Iqbal, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." 
 Scientific Reports 9.1 (2019): 1-13.
 ```
-
+&nbsp;
+&nbsp;
 ### Exploring the functional and anatomical motifs of developing mouse somatosensory cotrtex
-<p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="/img/SST_P12.png" align="center" width="222" height="180" /> </a>
-  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/SST_P21.png" align="center" width="222" height="200" /> </a>
-  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P12.png" align="center" width="222" height="200" /> </a>
-  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P21.png" align="center" width="230" height="190" /> </a>
+<p><a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/SST_P12.png" align="center" width="222" height="180" /> </a>
+  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/SST_P21.png" align="center" width="222" height="200" /> </a>
+  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/VIP_P12.png" align="center" width="222" height="200" /> </a>
+  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/VIP_P21.png" align="center" width="230" height="190" /> </a>
 </p>
 <p>
-  Neurons are captured with variability in shape, size, structure, intensity, etc. which becomes a challenge to detect them for high-throughput analysis of brain section images. We consider it as an object classification and detection problem and generated a ground-truth dataset of thousands of labelled neurons from mouse brain with different imaging modalities and genetic markers. We develop a deep neural network-based architecture to detect neurons in the entire 2D brain sections with high precision.
-Our study is published in <i>Scientific Reports</i> and made it to the <i>Top 100 in Neuroscience</i>. 
-  <a href="https://rdcu.be/b4DfY" style="color:black">[paper]</a> 
-  <a href="https://github.com/itsasimiqbal/DeNeRD" style="color:black">[code]</a>
+  Two inhibitory cell types involved in modulating barrel cortex activity and perception during active whisking in adult mice, are the VIP+ and SST+ interneurons. Here we identify a developmental transition point of structural and functional rearrangements onto these interneuron types around the start of active sensation at P14. Using in vivo two-photon Ca2+ imaging, we find that before P14, both interneuron types respond stronger to a multi-whisker stimulus, whereas after P14 their responses diverge, with VIP+ cells losing their multi-whisker preference and SST+ neurons enhancing theirs. Rabies virus tracings followed by tissue clearing, as well as photostimulation-coupled electrophysiology reveal that SST+ cells receive higher cross-barrel inputs compared to VIP+ at both time points. In addition, we also uncover that whereas prior to P14 both cell types receive direct input from the sensory thalamus, after P14 VIP+ cells show reduced inputs and SST+ cells largely shift to motor-related thalamic nuclei.
+The pre-print of our study is available in <i>bioRxiv</i>. 
+  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract" style="color:black">[preprint]</a> 
 </p>
 
+```
+Rahel Kastli, Rasmus Vighagen, Alexander van der Bourg, Ali Ozgur Argunsah, 
+Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. 
+"Developmental Divergence of Sensory Stimulus Representation in Cortical Interneurons." bioRxiv (2020).
+```
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
+
 ## Code:
 <p>
   1. 
