@@ -131,8 +131,18 @@ Asim Iqbal, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput
 Scientific Reports 9.1 (2019): 1-13.
 ```
 
-
-
+#### Exploring the functional and anatomical motifs of developing mouse somatosensory cotrtex
+<p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="/img/SST_P12.png" align="left" width="222" height="200" /> </a>
+  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/SST_P21.png" align="left" width="222" height="200" /> </a>
+  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P12.png" align="left" width="222" height="200" /> </a>
+  <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="/img/VIP_P21.png" align="left" width="222" height="200" /> </a>
+</p>
+<p>
+  Neurons are captured with variability in shape, size, structure, intensity, etc. which becomes a challenge to detect them for high-throughput analysis of brain section images. We consider it as an object classification and detection problem and generated a ground-truth dataset of thousands of labelled neurons from mouse brain with different imaging modalities and genetic markers. We develop a deep neural network-based architecture to detect neurons in the entire 2D brain sections with high precision.
+Our study is published in <i>Scientific Reports</i> and made it to the <i>Top 100 in Neuroscience</i>. 
+  <a href="https://rdcu.be/b4DfY" style="color:black">[paper]</a> 
+  <a href="https://github.com/itsasimiqbal/DeNeRD" style="color:black">[code]</a>
+</p>
 
 &nbsp;
 &nbsp;
