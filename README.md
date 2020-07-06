@@ -161,7 +161,7 @@ Scientific Reports 9.1 (2019): 1-13.
 &nbsp;
 &nbsp;
 ## News:
-- <p><a href="https://lums.edu.pk/" style="color:black"><b>LUMS</b></a> <a href="https://www.flipsnack.com/NewsletterSBASSE/sbasse-newsletter-v13.html"><img src="https://tribune-reloaded.s3.amazonaws.com/media/images/2131577-lumsjpgx-1578325209/2131577-lumsjpgx-1578325209-292x350.jpg" align="right" width="90" height="80" /> </a> featured my talk on <b>Exploring the computational principles of brain-wide development through deep learning</b> in <i>SBASSE Newsletter 2020<ib>!</p>
+- <p><a href="https://lums.edu.pk/" style="color:black"><b>LUMS</b></a> <a href="https://www.flipsnack.com/NewsletterSBASSE/sbasse-newsletter-v13.html"><img src="https://tribune-reloaded.s3.amazonaws.com/media/images/2131577-lumsjpgx-1578325209/2131577-lumsjpgx-1578325209-292x350.jpg" align="right" width="45" height="40" /> </a> featured my talk on <b>Exploring the computational principles of brain-wide development through deep learning</b> in <i>SBASSE Newsletter 2020</i>!</p>
 
 - <p><a href="https://rdcu.be/b4DfY" style="color:black"><b>DeNeRD</b></a> <a href="https://www.nature.com/collections/cgaefaegbi"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/A84880_SREP_TOP_100_NEUROSCIENCE_HERO_IMAG_1200x675px_Proof1-808a70ae0f814e8b4c19fd1294745bac.jpg" align="right" width="45" height="40" /> </a> is featured by <b>Scientific Reports</b> in <b>Top 100 in Neuroscience</b>!</p>
 
