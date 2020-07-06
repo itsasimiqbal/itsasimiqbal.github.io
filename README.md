@@ -133,7 +133,7 @@ Scientific Reports 9.1 (2019): 1-13.
 ```
 &nbsp;
 &nbsp;
-### Exploring the functional and anatomical motifs of developing mouse somatosensory cotrtex
+### Exploring the functional and anatomical motifs of developing mouse somatosensory cortex
 <p><a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/SST_P12.png" align="center" width="222" height="180" /> </a>
   <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/SST_P21.png" align="center" width="222" height="200" /> </a>
   <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/VIP_P12.png" align="center" width="222" height="200" /> </a>
