@@ -6,7 +6,7 @@
 
 <p> Before starting my PhD, I studied <b>Electrical Engineering</b> as an undergrad followed by a Masters in <b>Neural Systems and Computation</b> at the Institute of Neuroinformatics (
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
-  ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on '<b>Enhancing scale-invariance in a convolutional neural network</b>' as a thesis project by introducing a neuro-inspired layer in the deep neural network that mimics the functionality of complex cells in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by Prof. Shih-Chii Liu, Prof. Tobi Delbruck and Prof. Rodney Douglas.</p>
+  ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on '<b>Enhancing scale-invariance in a convolutional neural network</b>' as a thesis project by introducing a neuro-inspired layer in the deep neural network that mimics the functionality of complex cells in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by <a href="http://sensors.ini.uzh.ch/shih-chii.html" style="color:black">Prof. Shih-Chii Liu</a>, <a href="https://ee.ethz.ch/the-department/people-a-z/person-detail.OTIxMzQ=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html" style="color:black">Prof. Tobi Delbruck</a> and <a href="https://ee.ethz.ch/the-department/faculty/emeriti-professors/contact-details.NzkyOTQ=.TGlzdC8xODc5LC05MjU0NzU1MDE=.html" style="color:black">Prof. Rodney Douglas</a>.</p>
 
 <p> From Summer 2019 to Spring 2020, I worked as an Artificial Intelligence (AI) Resident on a NeuroMoonshot at 
   <a href="https://research.google/"><img src="img/google_logo.png" width="60" height="20" /> </a>
@@ -18,18 +18,18 @@
   <a href="https://alleninstitute.org/what-we-do/brain-science/"><img src="https://www.alleninstitute.org/static/images/logo_BS_header.png" width="90" height="20" /> </a>
   and
   <a href="https://www.washington.edu/"><img src="https://depts.washington.edu/mcklab/images/UW%20logo.jpg" width="90" height="20" /> </a>
-  in Seattle, Washington and worked on developing a deep neural network-based decoder to predict neural responses in mouse visual cortex
+  in Seattle, Washington and worked on developing a deep neural network-based decoder to predict neural responses in mouse visual cortex.
 </p>
 
-<p> In Summer of 2016, I worked as a Research Intern with Brain-inspired Computing group on classification of hand gestures through deep learning and its implementation on TrueNorth neuromorphic chip at 
+<p> In Summer of 2016, I worked as a Research Intern with Brain-inspired Computing Team on classification of hand gestures through deep learning and its implementation on TrueNorth neuromorphic chip at 
   <a href="https://www.research.ibm.com/"><img src="https://www.swissre.com/.imaging/default/dam/institute/images-sri/images-sri-events/IBM-Research.jpg/jcr:content.jpg" width="92" height="11" />
   </a>
   - Almaden, San Jose, California.
 </p>
 
-<p> From Spring 2015 to Spring 2016, I worked as a Visiting Researcher in DiCarlo's lab, Brain and Cognitive Sciences Department, 
+<p> From Spring 2015 to Spring 2016, I worked as a Visiting Researcher with <a href="https://mcgovern.mit.edu/profile/james-dicarlo/" style="color:black">Prof. Jim DiCarlo</a> at Brain and Cognitive Sciences Department, 
   <a href="http://web.mit.edu/"><img src="https://www.pngitem.com/pimgs/m/359-3591131_massachusetts-institute-of-technology-logo-png-transparent-png.png" width="72" height="20" />
-  </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimzed deep neural networks.
+  </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimized deep neural networks.
 </p>
 
 &nbsp;
