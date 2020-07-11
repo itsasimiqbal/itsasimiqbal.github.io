@@ -32,25 +32,6 @@
   </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimzed deep neural networks.
 </p>
 
-
-
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-## Education:
-- <a>Ph.D. Computational Neuroscience, UZH|ETH Zurich (2016-2019)</a>
-- <a>M.Sc. Neural Systems and Computation, UZH|ETH Zurich (2013-2015)</a>
-- <a>B.Sc. Electrical Engineering, Punjab University (2006-2010)</a>
-
-
-
-
-
 &nbsp;
 &nbsp;
 &nbsp;
@@ -58,7 +39,7 @@
 &nbsp;
 
 ## Research Interests:
-My research interests broadly categorize into the following:
+My research interests are broadly categorized into the following:
 - Neuro-inspired Artificial Intelligence
 - Neuroimaging with Deep Learning
 - Computer Vision
