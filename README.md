@@ -159,7 +159,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 &nbsp;
 ## News:
-- <p>Starting Summer 2020, I am joining <a href="https://www.epfl.ch/en/" style="color:black"><b>Adaptive Motor Control Lab</b></a> <a href="http://www.mousemotorlab.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" align="right" width="65" height="20" /> </a> at Swiss Federal Institute of Technology (EPFL) as a Postdoctoral Fellow to work on Neuro-inspired AI systems!</p>
+- <p>Starting Summer 2020, I am joining <a href="https://www.epfl.ch/en/" style="color:black"><b>Mathis Lab</b></a> <a href="http://www.mousemotorlab.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" align="right" width="65" height="20" /> </a> at Swiss Federal Institute of Technology (EPFL) as a Postdoctoral Fellow to work on Neuro-inspired AI systems!</p>
 
 - <p><a href="https://lums.edu.pk/" style="color:black"><b>LUMS</b></a> <a href="https://www.flipsnack.com/NewsletterSBASSE/sbasse-newsletter-v13.html"><img src="https://tribune-reloaded.s3.amazonaws.com/media/images/2131577-lumsjpgx-1578325209/2131577-lumsjpgx-1578325209-292x350.jpg" align="right" width="45" height="40" /> </a> featured my talk on <b>Exploring the computational principles of brain-wide development through deep learning</b> in <i>SBASSE Newsletter 2020</i>!</p>
 
