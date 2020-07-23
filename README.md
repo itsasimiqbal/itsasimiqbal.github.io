@@ -1,4 +1,13 @@
 ## About Me:
+<p> A Computational Neuroscientist by heart and a Deep Learner in practice. I aim to uncover the computational mysteries of mind to build General Artificial Intelligence. </p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Education:
 <p>
   I am working as a Postdoctoral Researcher in Computational Neuroscience at
   <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" /> </a>
@@ -8,6 +17,13 @@
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
   ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on '<b>Enhancing scale-invariance in a convolutional neural network</b>' as a thesis project by introducing a neuro-inspired layer in the deep neural network that mimics the functionality of complex cells in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by <a href="http://sensors.ini.uzh.ch/shih-chii.html" style="color:#253494">Prof. Shih-Chii Liu</a>, <a href="https://ee.ethz.ch/the-department/people-a-z/person-detail.OTIxMzQ=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html" style="color:#253494">Prof. Tobi Delbruck</a> and <a href="https://ee.ethz.ch/the-department/faculty/emeriti-professors/contact-details.NzkyOTQ=.TGlzdC8xODc5LC05MjU0NzU1MDE=.html" style="color:#253494">Prof. Rodney Douglas</a>.</p>
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Research Experience:
 <p> From Summer 2019 to Spring 2020, I worked as an Artificial Intelligence (AI) Resident on a NeuroMoonshot at 
   <a href="https://research.google/"><img src="img/google_logo.png" width="60" height="20" /> </a>
   <a href="https://x.company/"><img src="img/X.png" width="23" height="22" /> </a>
@@ -27,7 +43,7 @@
   - Almaden, San Jose, California.
 </p>
 
-<p> From Spring 2015 to Spring 2016, I worked as a Visiting Researcher with <a href="https://mcgovern.mit.edu/profile/james-dicarlo/" style="color:#253494">Prof. Jim DiCarlo</a> at Brain and Cognitive Sciences Department, 
+<p> From Spring 2015 to Spring 2016, I worked as a Visiting Researcher with <a href="https://mcgovern.mit.edu/profile/james-dicarlo/" style="color:#253494">Prof. Jim DiCarlo</a> in Brain and Cognitive Sciences Department, 
   <a href="http://web.mit.edu/"><img src="https://www.pngitem.com/pimgs/m/359-3591131_massachusetts-institute-of-technology-logo-png-transparent-png.png" width="72" height="20" />
   </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimized deep neural networks.
 </p>
