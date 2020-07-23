@@ -32,6 +32,11 @@
   </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimized deep neural networks.
 </p>
 
+<p> From 2013 to 2014, I worked as a Research Assistant with <a href="https://mcgovern.mit.edu/profile/james-dicarlo/" style="color:black">Prof. Jerry Chen</a> and <a href="https://mcgovern.mit.edu/profile/james-dicarlo/" style="color:black">Prof. Fritjof Helmchen</a> at Brain Research Institute, 
+  <a href="http://hifo.uzh.ch/"><img src="https://www.euprio.eu/wp-content/uploads/2015/01/uzh_logo_d_pos_web_printview.jpg" width="60" height="20" />
+  </a>. I worked on developing algorithms to analyse whisker detection in mouse somatosensory tasks thrugh LeapMotion.
+</p>
+
 &nbsp;
 &nbsp;
 &nbsp;
