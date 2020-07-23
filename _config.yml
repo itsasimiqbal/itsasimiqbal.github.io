@@ -1,5 +1,5 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 title: <p style="text-align:center;color:black;" class="view">Asim Iqbal, PhD<br></p>
 logo: img/asim-ini.jpg
 description: <p style="text-align:center;color:black;" class="view">AI Neuroscientist<br></p>
-minimal_mistakes_skin: dark
+page-col: "#FFAFFF"
