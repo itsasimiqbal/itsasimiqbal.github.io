@@ -1,9 +1,6 @@
 ## About Me:
 <p> A Computational Neuroscientist by heart and a Deep Learner in practice. I aim to uncover the computational mysteries of mind to build General Artificial Intelligence. </p>
 
-&nbsp;
-&nbsp;
-
 ## Education:
 <p>I am working as a Postdoctoral Research Scientist on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
 
