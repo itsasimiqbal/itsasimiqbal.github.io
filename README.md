@@ -207,6 +207,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 - Neuroscience Block Course (Spring 2017), UZH/ETH Zurich
 
 #### Supervised Students:
+- Ella McPherson (M.Sc. Health Sciences and Technology, ETH Zurich) - Internship
 - Romesa Khan (M.Sc. Neuroscience, ETH Zurich) - Master Thesis
 - Asfandyar Shiekh (B.Sc. Electrical Engineering, ETH Zurich) - Internship
 - Markus Suter (M.Sc. Neuroscience, UZH) Master Thesis Co-supervised
