@@ -72,7 +72,9 @@ My research interests are broadly categorized into the following:
 &nbsp;
 &nbsp;
 ## Publications (recent):
-<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a></p>
+<p>Hassan Mahmood, <b>Asim Iqbal</b>, and Syed Mohammed Shamsul Islam. "Exploring intensity-invariance in deep neural networks for brain image registration". Accepted in <b><i>DICTA 2020</i></b>, Melbourne, Australia</p>
+
+<p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a> In Printing, <b><i>Nature Communications</i></b></p>
 
 <p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Nature Scientific Reports</i></b> 9, no. 1 (2019): 1-13.<a href="https://rdcu.be/b4DfY" style="color:#253494">[pdf]</a></p>
 
