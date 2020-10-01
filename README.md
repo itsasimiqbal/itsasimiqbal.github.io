@@ -212,8 +212,8 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 
 - Valentin Bruttin (M.Sc. Life Sciences & Engineering, EPFL) - Master Thesis
 - Ella McPherson (M.Sc. Health Sciences and Technology, ETH Zurich) - Internship
-- Ali Bukhari (B.Sc. Computer Science) - Bachelor Thesis
-- Hamza Khalid (B.Sc. Computer Science) - Internship
+- Ali Bukhari (B.Sc. Computer Science, LUMS) - Bachelor Thesis
+- Hamza Khalid (B.Sc. Computer Science, LUMS) - Internship
 - Namra Aamir (B.Sc. Biology, LUMS) - Internship
 - Romesa Khan (M.Sc. Neuroscience, ETH Zurich) - Master Thesis
 - Asfandyar Shiekh (B.Sc. Electrical Engineering, ETH Zurich) - Internship
@@ -226,7 +226,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 #### Interested Students:
 Any undergrad or graduate student in STEM field interested in working with me on topics related to <b>Neuro-inspired Artificial Intelligence</b> then please feel free to reach out:
 ```
-iqbala{at}ini.ethz.ch
+asim.iqbal{at}epfl.ch
 ```
 
 
