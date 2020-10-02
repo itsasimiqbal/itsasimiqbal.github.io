@@ -80,6 +80,8 @@ My research interests are broadly categorized into the following:
 
 <p><b>Asim Iqbal</b>, Phil Dong, Christopher M. Kim, and Heeun Jang. "Decoding neural responses in mouse visual cortex through a deep neural network." In <b><i>International Joint Conference on Neural Networks (IJCNN)</i></b>, pp. 1-7. IEEE, 2019. <a href="https://arxiv.org/pdf/1911.05479.pdf" style="color:#253494">[pdf]</a></p>
 
+<p><b>Asim Iqbal</b> (featured) "A deeply learned brain atlas." <b><i>Nature Methods</i></b> (2019): 680-680.<a href="https://www.nature.com/articles/s41592-019-0522-8" style="color:#253494">[pdf]</a></p>
+
 <p><b>Asim Iqbal</b>, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." <b><i>Nature Machine Intelligence</i></b> 1, no. 6 (2019): 277-287.<a href="https://rdcu.be/b4DfW" style="color:#253494">[pdf]</a></p>
 
 <p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "Exploring brain-wide development of inhibition through deep learning. <b><i>arXiv</i></b> (2018).<a href="https://arxiv.org/pdf/1807.03238.pdf" style="color:#253494">[pdf]</a></p>
