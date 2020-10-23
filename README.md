@@ -189,7 +189,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 
 - <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://rdcu.be/b4Qkm"><img src="https://www.fens.org/Global/Pages/FKNE/Logos%20Publication/Nature%20Methods.png" align="right" width="100" height="25" /> </a> is featured by <b>Nature Methods</b> in <b>A deeply learned brain atlas</b>!</p>
 
-- <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://sciglow.com/developing-brain-maps-through-artificial-intelligence/"><img src="https://sciglow.com/wp-content/uploads/NMI_sample_1.jpg" align="right" width="100" height="50" /> </a> is featured by <b>SciGlow</b> in <b>Developing brain maps through artificial intelligence</b>!</p>
+- <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://sciglow.com/developing-brain-maps-through-artificial-intelligence/"><img src="img/NMI_sample_1-970x515.jpg" align="right" width="100" height="50" /> </a> is featured by <b>SciGlow</b> in <b>Developing brain maps through artificial intelligence</b>!</p>
 
 - <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://swisscognitive.ch/2019/06/25/how-deep-learning-is-transforming-brain-mapping/"><img src="https://www.e-zigurat.com/innovation-school/wp-content/uploads/sites/5/2017/10/swisscognitive-logo-cmyk.jpg" align="right" width="90" height="50" /> </a> is featured by <b>Swiss Cognitive</b> in <b>Thanks to deep learning, the tricky business of making brain atlases just got a lot easier</b>!</p>
 
