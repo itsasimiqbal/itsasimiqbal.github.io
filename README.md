@@ -65,13 +65,14 @@ My research interests are broadly categorized into the following:
 
 
 
-
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 ## Publications (recent):
+<p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "A comparison of automatic multi-tissue segmentation methods of the human fetal brain using the FeTA Dataset." arXiv preprint arXiv:2010.15526 (2020).<a href="https://arxiv.org/pdf/2010.15526.pdf" style="color:#253494">[pdf]</a> In Review, <b><i>Nature Scientific Data</i></b></p>
+
 <p>Hassan, Mahmood, <b>Asim Iqbal</b>, and S. M. Shamsul Islam. "Exploring Intensity Invariance in Deep Neural Networks for Brain Image Registration." arXiv preprint arXiv:2009.10058 (2020).<a href="https://arxiv.org/pdf/2009.10058.pdf" style="color:#253494">[pdf]</a> Accepted in <b><i>DICTA 2020</i></b>, Melbourne, Australia</p>
 
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>bioRxiv</i></b> (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.full.pdf" style="color:#253494">[pdf]</a> In Printing, <b><i>Nature Communications</i></b></p>
