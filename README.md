@@ -42,7 +42,7 @@
 </p>
 
 <p> From 2013 to 2014, I worked as a Research Assistant with <a href="http://www.chen-lab.org/index.html" style="color:#253494">Prof. Jerry Chen</a> and <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> at Brain Research Institute, 
-  <a href="http://hifo.uzh.ch/"><img src="https://www.euprio.eu/wp-content/uploads/2015/01/uzh_logo_d_pos_web_printview.jpg" width="60" height="20" />
+  <a href="http://hifo.uzh.ch/"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" />
   </a>. I worked on developing algorithms to analyse whisker detection in mouse somatosensory tasks through LeapMotion device.
 </p>
 
