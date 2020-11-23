@@ -178,6 +178,8 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 &nbsp;
 ## News:
+- <p>Our paper <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494"><b>Developmental divergence of sensory stimulus representation in cortical interneurons</b></a> <a href="https://www.nature.com/collections/mjkksldswr"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/Brain_Behaviour_1500x400px-3ab652474acf2951c2825aa3d8f3b0d7-1-3d01fa1e4aa6f19897f423591856c43e.jpg" align="right" width="65" height="40" /> </a> is featured by <b>Nature Communications</b> as a spotlight in <b>From Brain to Behaviour</b>!</p>
+  
 - <p>Starting Summer 2020, I am joining <a href="http://www.mousemotorlab.org/" style="color:#253494"><b>Mathis Lab</b></a> <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" align="right" width="65" height="20" /> </a> at Swiss Federal Institute of Technology (EPFL) as a Postdoctoral Fellow to work on Neuro-inspired AI systems!</p>
 
 - <p><a href="https://lums.edu.pk/" style="color:#253494"><b>LUMS</b></a> <a href="https://www.flipsnack.com/NewsletterSBASSE/sbasse-newsletter-v13.html"><img src="https://tribune-reloaded.s3.amazonaws.com/media/images/2131577-lumsjpgx-1578325209/2131577-lumsjpgx-1578325209-292x350.jpg" align="right" width="45" height="40" /> </a> featured my talk on <b>Exploring the computational principles of brain-wide development through deep learning</b> in <i>SBASSE Newsletter 2020</i>!</p>
