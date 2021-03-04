@@ -1,5 +1,5 @@
 ## About Me:
-<p> A Computational Neuroscientist by heart and a Deep Learner in practice. I aim to uncover the computational mysteries of mind to build General Artificial Intelligence. </p>
+<p> A Computational Neuroscientist by heart and a Machine Learner in practice. I aim to uncover the anatomical, computational and behavioral mysteries of mind to build rodent (and some day human)-level Artificial Intelligence. </p>
 
 ## Education:
 <p>I am working as a Postdoctoral Research Scientist on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
@@ -134,21 +134,21 @@ Scientific Reports 9.1 (2019): 1-13.
 &nbsp;
 &nbsp;
 ### Exploring the functional and anatomical motifs of developing mouse somatosensory cortex
-<p><a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/SST_P12.png" align="center" width="222" height="180" /> </a>
-  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/SST_P21.png" align="center" width="222" height="200" /> </a>
-  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/VIP_P12.png" align="center" width="222" height="200" /> </a>
-  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract"><img src="/img/VIP_P21.png" align="center" width="230" height="190" /> </a>
+<p><a href="https://www.nature.com/articles/s41467-020-19427-z"><img src="/img/SST_P12.png" align="center" width="222" height="180" /> </a>
+  <a href="https://www.nature.com/articles/s41467-020-19427-z"><img src="/img/SST_P21.png" align="center" width="222" height="200" /> </a>
+  <a href="https://www.nature.com/articles/s41467-020-19427-z"><img src="/img/VIP_P12.png" align="center" width="222" height="200" /> </a>
+  <a href="https://www.nature.com/articles/s41467-020-19427-z"><img src="/img/VIP_P21.png" align="center" width="230" height="190" /> </a>
 </p>
 <p>
   Two inhibitory cell types involved in modulating barrel cortex activity and perception during active whisking in adult mice, are the VIP+ and SST+ interneurons. Here we identify a developmental transition point of structural and functional rearrangements onto these interneuron types around the start of active sensation at P14. Using in vivo two-photon Ca2+ imaging, we find that before P14, both interneuron types respond stronger to a multi-whisker stimulus, whereas after P14 their responses diverge, with VIP+ cells losing their multi-whisker preference and SST+ neurons enhancing theirs. Rabies virus tracings followed by tissue clearing, as well as photostimulation-coupled electrophysiology reveal that SST+ cells receive higher cross-barrel inputs compared to VIP+ at both time points. In addition, we also uncover that whereas prior to P14 both cell types receive direct input from the sensory thalamus, after P14 VIP+ cells show reduced inputs and SST+ cells largely shift to motor-related thalamic nuclei.
 The pre-print of our study is available in <i>bioRxiv</i>. 
-  <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.065680v1.abstract" style="color:#253494">[preprint]</a> 
+  <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494">[preprint]</a> 
 </p>
 
 ```
 Rahel Kastli, Rasmus Vighagen, Alexander van der Bourg, Ali Ozgur Argunsah, 
 Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. 
-"Developmental Divergence of Sensory Stimulus Representation in Cortical Interneurons." bioRxiv (2020).
+"Developmental Divergence of Sensory Stimulus Representation in Cortical Interneurons." Nature Communications (2020).
 ```
 &nbsp;
 &nbsp;
