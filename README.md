@@ -30,6 +30,10 @@
   in Seattle, Washington and worked on developing a deep neural network-based decoder to predict neural responses in mouse visual cortex.
 </p>
 
+<p> In Spring of 2017, I attended Connectomics at Neuroscience School of Advancted Studies
+  <a href="https://www.neurosas.org/"><img src="img/nsas-logo.jpg" width="50" height="20" /> </a> in Siena, Italy.
+</p>
+
 <p> In Summer of 2016, I worked as a Research Intern with Brain-inspired Computing Team on classification of hand gestures through deep learning and its implementation on TrueNorth neuromorphic chip at 
   <a href="https://www.research.ibm.com/"><img src="https://www.swissre.com/.imaging/default/dam/institute/images-sri/images-sri-events/IBM-Research.jpg/jcr:content.jpg" width="92" height="11" />
   </a>
@@ -73,11 +77,11 @@ My research interests are broadly categorized into the following:
 ## Publications (recent):
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>Nature Communications</i></b> 11, 5729 (2020).<a href="https://rdcu.be/caHox" style="color:#253494">[pdf]</a></p>
   
-<p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "A comparison of automatic multi-tissue segmentation methods of the human fetal brain using the FeTA Dataset." arXiv preprint arXiv:2010.15526 (2020).<a href="https://arxiv.org/pdf/2010.15526.pdf" style="color:#253494">[pdf]</a> In Review, <b><i>Nature Scientific Data</i></b></p>
+<p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "A comparison of automatic multi-tissue segmentation methods of the human fetal brain using the FeTA Dataset." arXiv preprint arXiv:2010.15526 (2020).<a href="https://arxiv.org/pdf/2010.15526.pdf" style="color:#253494">[pdf]</a></p>
 
-<p>Hassan, Mahmood, <b>Asim Iqbal</b>, and S. M. Shamsul Islam. "Exploring Intensity Invariance in Deep Neural Networks for Brain Image Registration." arXiv preprint arXiv:2009.10058 (2020).<a href="https://arxiv.org/pdf/2009.10058.pdf" style="color:#253494">[pdf]</a> Accepted in <b><i>DICTA 2020</i></b>, Melbourne, Australia</p>
+<p>Hassan, Mahmood, <b>Asim Iqbal</b>, and S. M. Shamsul Islam. "Exploring Intensity Invariance in Deep Neural Networks for Brain Image Registration." <b><i> Digital Image Computing: Techniques and Applications (DICTA)</i></b>, Melbourne, Australia, 2020.<a href="https://arxiv.org/pdf/2009.10058.pdf" style="color:#253494">[pdf]</a></p>
 
-<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Nature Scientific Reports</i></b> 9, no. 1 (2019): 1-13.<a href="https://rdcu.be/b4DfY" style="color:#253494">[pdf]</a></p>
+<p><b>Asim Iqbal</b>, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." <b><i>Scientific Reports</i></b> 9, no. 1 (2019): 1-13.<a href="https://rdcu.be/b4DfY" style="color:#253494">[pdf]</a></p>
 
 <p><b>Asim Iqbal</b>, Phil Dong, Christopher M. Kim, and Heeun Jang. "Decoding neural responses in mouse visual cortex through a deep neural network." In <b><i>International Joint Conference on Neural Networks (IJCNN)</i></b>, pp. 1-7. IEEE, 2019. <a href="https://arxiv.org/pdf/1911.05479.pdf" style="color:#253494">[pdf]</a></p>
 
