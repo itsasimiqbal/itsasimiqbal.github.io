@@ -194,7 +194,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 
 - <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://singularityhub.com/2019/08/08/three-invaluable-ways-ai-and-neuroscience-are-driving-each-other-forward/?fbclid=IwAR3pMameDfPifEqGIPncMmGu3i88SR4Ckh7s8UhTbkCdzEpyMybo7Tm7jjg#.XUxuZ1EDDOE.facebook"><img src="https://singularityhub.com/wp-content/uploads/2019/08/artificial-intelligence-neuroscience-abstract-scientific-illustration-shutterstock-1243429675-1068x601.jpg" align="right" width="95" height="50" /> </a> is featured by <b>Singularity Hub</b> in <b>Three Invaluable Ways AI and Neuroscience Are Driving Each Other Forward</b>!</p>
 
-- <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://rdcu.be/b4Qkm"><img src="https://www.fens.org/Global/Pages/FKNE/Logos%20Publication/Nature%20Methods.png" align="right" width="100" height="25" /> </a> is featured by <b>Nature Methods</b> in <b>A deeply learned brain atlas</b>!</p>
+- <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://rdcu.be/b4Qkm"><img src="https://pbs.twimg.com/profile_images/1199341895035449350/v6O3SxS2_400x400.jpg" align="right" width="45" height="45" /> </a> is featured by <b>Nature Methods</b> in <b>A deeply learned brain atlas</b>!</p>
 
 - <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://sciglow.com/developing-brain-maps-through-artificial-intelligence/"><img src="img/NMI_sample_1-970x515.jpg" align="right" width="100" height="50" /> </a> is featured by <b>SciGlow</b> in <b>Developing brain maps through artificial intelligence</b>!</p>
 
@@ -233,9 +233,9 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 - Michel Schmidlin (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course
 
 #### Interested Students:
-Any undergrad or graduate student in STEM field interested in working with me on topics related to <b>Neuro-inspired Artificial Intelligence</b> then please feel free to reach out:
+Any undergrad or graduate student in STEM field at UZH/ETH/EPFL interested in working with me on topics related to <b>Neuro-inspired Artificial Intelligence</b> then please feel free to reach out:
 ```
-asim.iqbal{at}epfl.ch
+iqbala{at}ini.ethz.ch
 ```
 
 
