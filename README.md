@@ -75,7 +75,7 @@ My research interests are broadly categorized into the following:
 &nbsp;
 &nbsp;
 ## Publications (recent):
-<p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "A comparison of automatic multi-tissue segmentation methods of the human fetal brain using the FeTA Dataset." <b><i>Nature Scientific Data</i></b> 8, 167 (2021).<a href="https://rdcu.be/cnU30" style="color:#253494">[pdf]</a></p>
+<p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset." <b><i>Nature Scientific Data</i></b> 8, 167 (2021).<a href="https://rdcu.be/cnU30" style="color:#253494">[pdf]</a></p>
 
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>Nature Communications</i></b> 11, 5729 (2020).<a href="https://rdcu.be/caHox" style="color:#253494">[pdf]</a></p>
 
