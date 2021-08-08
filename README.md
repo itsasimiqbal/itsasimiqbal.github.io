@@ -2,9 +2,9 @@
 <p> A Computational Neuroscientist by heart and a Machine Learner in practice. I aim to uncover the anatomical, computational and behavioral mysteries of mind to build rodent (and some day human)-level Artificial Intelligence. </p>
 
 ## Education:
-<p>I am working as a Postdoctoral Research Scientist on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
+<p>I worked as a Postdoctoral Research Scientist on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
 
-<p>Prior to this, I briefly worked as a Postdoctoral Researcher (and currently serve as a Visiting Scientist) at <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" /> </a> after finishing my PhD in <b>Computational Neuroscience</b> on the topic: '<b>Exploring brain-wide development through deep learning</b>' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), UZH|ETH Zürich. My PhD thesis was advised by <a href="https://znznews.ch/understanding-the-developing-brain/" style="color:#253494">Prof. Theofanis Karayannis</a> along with <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html" style="color:#253494">Prof. Mehmet Fatih Yanik</a> as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
+<p>Prior to this, I briefly worked as a Postdoctoral Researcher (and currently serve as a Visiting Scientist) at <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> after finishing my PhD in <b>Computational Neuroscience</b> on the topic: '<b>Exploring the principles of brain-wide development through deep learning</b>' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), UZH|ETH Zürich. My PhD thesis was advised by <a href="https://znznews.ch/understanding-the-developing-brain/" style="color:#253494">Prof. Theofanis Karayannis</a> along with <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html" style="color:#253494">Prof. Mehmet Fatih Yanik</a> as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
 
 <p> Before starting my PhD, I studied <b>Electrical Engineering</b> as an undergrad followed by a Masters in <b>Neural Systems and Computation</b> at the Institute of Neuroinformatics (
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
@@ -46,7 +46,7 @@
 </p>
 
 <p> From 2013 to 2014, I worked as a Research Assistant with <a href="http://www.chen-lab.org/index.html" style="color:#253494">Prof. Jerry Chen</a> and <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> at Brain Research Institute, 
-  <a href="http://hifo.uzh.ch/"><img src="https://www.simplyscience.ch/assets/images/6/Logo_UZH_ETHZ-34d67296.jpg" width="125" height="20" />
+  <a href="http://hifo.uzh.ch/"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" />
   </a>. I worked on developing algorithms to analyse whisker detection in mouse somatosensory tasks through LeapMotion device.
 </p>
 
@@ -60,9 +60,7 @@
 My research interests are broadly categorized into the following:
 - Neuro-inspired Artificial Intelligence
 - Neuroimaging with Deep Learning
-- Computer Vision
-- Reinforcement Learning
-- Neuromorphic Engineering
+- Deep Reinforcement Learning
 
 <p>In general, I have been working on exploring the computational principles of cortical neurons in the developing mouse brain. Some of my recent efforts in this direction has resulted into high-throughput deep learning-based tools to analyse large scale brain imaging datasets. </p>
 
@@ -145,8 +143,8 @@ Scientific Reports 9.1 (2019): 1-13.
 </p>
 <p>
   Two inhibitory cell types involved in modulating barrel cortex activity and perception during active whisking in adult mice, are the VIP+ and SST+ interneurons. Here we identify a developmental transition point of structural and functional rearrangements onto these interneuron types around the start of active sensation at P14. Using in vivo two-photon Ca2+ imaging, we find that before P14, both interneuron types respond stronger to a multi-whisker stimulus, whereas after P14 their responses diverge, with VIP+ cells losing their multi-whisker preference and SST+ neurons enhancing theirs. Rabies virus tracings followed by tissue clearing, as well as photostimulation-coupled electrophysiology reveal that SST+ cells receive higher cross-barrel inputs compared to VIP+ at both time points. In addition, we also uncover that whereas prior to P14 both cell types receive direct input from the sensory thalamus, after P14 VIP+ cells show reduced inputs and SST+ cells largely shift to motor-related thalamic nuclei.
-The pre-print of our study is available in <i>bioRxiv</i>. 
-  <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494">[preprint]</a> 
+Our study is published in <i>Nature Communications</i>. 
+  <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494">[paper]</a> 
 </p>
 
 ```
@@ -220,6 +218,8 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 #### Supervised Students:
 
 - Valentin Bruttin (M.Sc. Life Sciences & Engineering, EPFL) - Master Thesis
+- Ahmed Qazi (B.Sc. Computer Science, LUMS) - Bachelor Thesis
+- Hamd Jalil (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Ella McPherson (M.Sc. Health Sciences and Technology, ETH Zurich) - Internship
 - Ali Bukhari (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Hamza Khalid (B.Sc. Computer Science, LUMS) - Internship
