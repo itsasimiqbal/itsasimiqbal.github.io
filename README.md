@@ -12,7 +12,7 @@
 
 <p>As an Affiliate Faculty, I co-advise a small research group in the Department of Computer Science | SBASSE, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="75" height="20" /> </a>. We are developing a novel deep neural network-based architecture inspired by the mouse visual cortex.</p>
 
-<p>I serve as a Technical Advisory Board Member at a few tech startups focused on Computer Vision and Machine Learning such as Wizlabs (<a href="https://wizlabs.ai/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8dj3H382WIg/company-logo_200_200/0/1594334870949?e=1639008000&v=beta&t=NgUK7jhYdjvRA9WjliWz6I8VbrdP6EYqXfHK8w4mZLg" width="20" height="20" /></a>), LAAM (<a href="https://laam.pk/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHWWoNhCX3J7Q/company-logo_200_200/0/1600198717016?e=1639008000&v=beta&t=IfSVST2Sp3bndkf_syVTO8dJrFfSxbrsQkNuo1VS1Uc" width="20" height="20" /></a>) and Pixel (<a href="https://linktr.ee/pixel.sucsel"><img src="https://d1fdloi71mui9q.cloudfront.net/rixXwr56RnmPOWxrxFbe_b4b66ab973a65ca94ab6755e2169a5792" width="20" height="20" /></a>).
+<p>I serve as a Technical Advisory Board Member at a few tech startups focused on Computer Vision and Machine Learning such as <a href="https://wizlabs.ai/" style="color:#253494">Wizlabs</a> and <a href="https://laam.pk/" style="color:#253494">LAAM</a>.</p>
 
 &nbsp;
 &nbsp;
@@ -21,9 +21,9 @@
 &nbsp;
 
 ## Education:
-<p>I worked as a Postdoctoral Research Scientist on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
+<p>I worked as a Postdoctoral Research Scientist (Summer 2020 - Summer 2021) on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
 
-<p>Prior to this, I briefly worked as a Postdoctoral Researcher (and currently serve as a Visiting Scientist) at <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> after finishing my PhD in <b>Computational Neuroscience</b> on the topic: '<b>Exploring the principles of brain-wide development through deep learning</b>' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), UZH|ETH Zürich. My PhD thesis was advised by <a href="https://znznews.ch/understanding-the-developing-brain/" style="color:#253494">Prof. Theofanis Karayannis</a> along with <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html" style="color:#253494">Prof. Mehmet Fatih Yanik</a> as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
+<p>Prior to this, I completed my PhD in the field of <b>Computational Neuroscience</b> and <b>Machine Learning</b> on the topic: '<b>Exploring the principles of brain-wide development through deep learning</b>' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a>. My PhD thesis was advised by <a href="https://znznews.ch/understanding-the-developing-brain/" style="color:#253494">Prof. Theofanis Karayannis</a> along with <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html" style="color:#253494">Prof. Mehmet Fatih Yanik</a> as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
 
 <p> Before starting my PhD, I studied <b>Electrical Engineering</b> as an undergrad followed by a Masters in <b>Neural Systems and Computation</b> at the Institute of Neuroinformatics (
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
@@ -199,7 +199,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 &nbsp;
 ## News:
-- <p>Starting Fall 2021, I am steering my cruise towards industry on an exciting journey in the field of Machine Learning and Computational Neuroimaging (details coming soon :)</p>
+- <p>Starting Fall 2021, my cruise is steering towards industry on an exciting journey in the field of Machine Learning and Computational Neuroimaging (details coming soon).</p>
 
 - <p>Our paper <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494"><b>Developmental divergence of sensory stimulus representation in cortical interneurons</b></a> <a href="https://www.nature.com/collections/mjkksldswr"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/Brain_Behaviour_1500x400px-3ab652474acf2951c2825aa3d8f3b0d7-1-3d01fa1e4aa6f19897f423591856c43e.jpg" align="right" width="65" height="40" /> </a> is featured by <b>Nature Communications</b> as a spotlight in <b>From Brain to Behaviour</b>!</p>
   
@@ -254,7 +254,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 - Michel Schmidlin (M.Sc. Neuroscience, ETH Zurich) Neuroscience Block Course
 
 #### Interested Students:
-Any undergrad or graduate student in STEM field at UZH/ETH/EPFL interested in working with me on topics related to <b>Neuro-inspired Artificial Intelligence</b> then please feel free to reach out:
+Any undergrad or graduate student in Computer Science (or similar STEM field) at UZH/ETH Zurich/LUMS interested in working with me on topics related to <b>Neuro-inspired Artificial Intelligence</b> then drop me an email:
 ```
 iqbala{at}ini.ethz.ch
 ```
