@@ -10,7 +10,7 @@
 ## Affiliations:
 <p>I am currently serving as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ) <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I am pushing the efforts towards uncovering computational principles in the developing mouse cortex through Artificial Intelligence and Computational Neuroimaging.</p>
 
-<p>As an Affiliate Faculty, I co-advise a small research group in the Department of Computer Science | SBASSE, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="75" height="20" /> </a>. We are developing a novel deep neural network-based architecture inspired by the mouse visual cortex.</p>
+<p>As an Affiliate Faculty, I co-advise a small research group in the Department of Computer Science | SBASSE, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="55" height="15" /> </a>. We are developing a novel deep neural network-based architecture inspired by the mouse visual cortex.</p>
 
 <p>I serve as a Technical Advisory Board Member at a few tech startups focused on Computer Vision and Machine Learning such as <a href="https://wizlabs.ai/" style="color:#253494">Wizlabs</a> and <a href="https://laam.pk/" style="color:#253494">LAAM</a>.</p>
 
@@ -200,6 +200,8 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 ## News:
 - <p>Starting Fall 2021, my cruise is steering towards industry on an exciting journey in the field of Machine Learning and Computational Neuroimaging (details coming soon).</p>
+
+- <p><a href="https://www.neuroscience.uzh.ch/en/symposium.html" style="color:#253494"> <b>ZNZ</b> </a> <a href="https://www.neuroscience.uzh.ch/dam/jcr:e57eabd2-ac0a-428d-a0cd-90d7591331ae/ZNZ_Logo_sqn.png" align="right" width="45" height="30" /> </a> has invited me as a speaker to give a talk on <b>Exploring the principles of cortical development through deep learning</b> at <i>ZNZ Symposium 2021 </i> organised by the University of Zurich and ETH Zurich.</p>
 
 - <p>Our paper <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494"><b>Developmental divergence of sensory stimulus representation in cortical interneurons</b></a> <a href="https://www.nature.com/collections/mjkksldswr"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/Brain_Behaviour_1500x400px-3ab652474acf2951c2825aa3d8f3b0d7-1-3d01fa1e4aa6f19897f423591856c43e.jpg" align="right" width="65" height="40" /> </a> is featured by <b>Nature Communications</b> as a spotlight in <b>From Brain to Behaviour</b>!</p>
   
