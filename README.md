@@ -1,6 +1,25 @@
 ## About Me:
 <p> A Computational Neuroscientist by heart and a Machine Learner in practice. I aim to uncover the anatomical, computational and behavioral mysteries of mind to build rodent (and some day human)-level Artificial Intelligence. </p>
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Affiliations:
+<p>I am currently serving as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ) <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I am pushing the efforts towards uncovering computational principles in the developing mouse cortex through Artificial Intelligence and Computational Neuroimaging.</p>
+
+<p>As an Affiliate Faculty, I co-advise a small research group in the Department of Computer Science | SBASSE, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="75" height="20" /> </a>. We are developing a novel deep neural network-based architecture inspired by the mouse visual cortex.</p>
+
+<p>I serve as a Technical Advisory Board Member at a few tech startups focused on Computer Vision and Machine Learning such as Wizlabs (<a href="https://wizlabs.ai/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8dj3H382WIg/company-logo_200_200/0/1594334870949?e=1639008000&v=beta&t=NgUK7jhYdjvRA9WjliWz6I8VbrdP6EYqXfHK8w4mZLg" width="20" height="20" /></a>), LAAM (<a href="https://laam.pk/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHWWoNhCX3J7Q/company-logo_200_200/0/1600198717016?e=1639008000&v=beta&t=IfSVST2Sp3bndkf_syVTO8dJrFfSxbrsQkNuo1VS1Uc" width="20" height="20" /></a>) and Pixel (<a href="https://linktr.ee/pixel.sucsel"><img src="https://d1fdloi71mui9q.cloudfront.net/rixXwr56RnmPOWxrxFbe_b4b66ab973a65ca94ab6755e2169a5792" width="20" height="20" /></a>).
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## Education:
 <p>I worked as a Postdoctoral Research Scientist on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
 
@@ -180,6 +199,8 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 &nbsp;
 ## News:
+- <p>Starting Fall 2021, I am steering my cruise towards industry on an exciting journey in the field of Machine Learning and Computational Neuroimaging (details coming soon :)</p>
+
 - <p>Our paper <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494"><b>Developmental divergence of sensory stimulus representation in cortical interneurons</b></a> <a href="https://www.nature.com/collections/mjkksldswr"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/Brain_Behaviour_1500x400px-3ab652474acf2951c2825aa3d8f3b0d7-1-3d01fa1e4aa6f19897f423591856c43e.jpg" align="right" width="65" height="40" /> </a> is featured by <b>Nature Communications</b> as a spotlight in <b>From Brain to Behaviour</b>!</p>
   
 - <p>Starting Summer 2020, I am joining <a href="http://www.mousemotorlab.org/" style="color:#253494"><b>Mathis Lab</b></a> <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" align="right" width="65" height="20" /> </a> at Swiss Federal Institute of Technology (EPFL) as a Postdoctoral Fellow to work on Neuro-inspired AI systems!</p>
