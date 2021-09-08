@@ -201,7 +201,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 ## News:
 - <p>Starting Fall 2021, my cruise is steering towards industry on an exciting journey in the field of Machine Learning and Computational Neuroimaging (details coming soon).</p>
 
-- <p><a href="https://www.neuroscience.uzh.ch/en/symposium.html" style="color:#253494"> <b>ZNZ</b> </a> <a href="https://www.neuroscience.uzh.ch/dam/jcr:e57eabd2-ac0a-428d-a0cd-90d7591331ae/ZNZ_Logo_sqn.png" align="right" width="45" height="30" /> </a> has invited me as a speaker to give a talk on <b>Exploring the principles of cortical development through deep learning</b> at <i>ZNZ Symposium 2021 </i> organised by the University of Zurich and ETH Zurich.</p>
+- <p><a href="https://www.neuroscience.uzh.ch/en/symposium.html" style="color:#253494"><b>ZNZ</b></a> <a href="https://www.neuroscience.uzh.ch/dam/jcr:e57eabd2-ac0a-428d-a0cd-90d7591331ae/ZNZ_Logo_sqn.png" align="right" width="45" height="40" /> </a> (University of Zurich and ETH Zurich) has invited me as a speaker to give a talk on <b>Exploring the principles of cortical development through deep learning</b> at the <i>ZNZ Symposium 2021</i>!</p>
 
 - <p>Our paper <a href="https://www.nature.com/articles/s41467-020-19427-z" style="color:#253494"><b>Developmental divergence of sensory stimulus representation in cortical interneurons</b></a> <a href="https://www.nature.com/collections/mjkksldswr"><img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/Brain_Behaviour_1500x400px-3ab652474acf2951c2825aa3d8f3b0d7-1-3d01fa1e4aa6f19897f423591856c43e.jpg" align="right" width="65" height="40" /> </a> is featured by <b>Nature Communications</b> as a spotlight in <b>From Brain to Behaviour</b>!</p>
   
