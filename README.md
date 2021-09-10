@@ -1,24 +1,12 @@
 ## About Me:
-<p> A Computational Neuroscientist by training and a Machine Learner in practice. I aim to understand the anatomical and functional mysteries of brain to build rodent (and some day human)-level Artificial Intelligence and contribute towards developing robust solutions for brain disorders. </p>
+<p> A Computational Neuroscientist by training and a Machine Learner Engineer in practice. I aim to understand the anatomical and functional mysteries of brain to build rodent (and some day human)-level Artificial Intelligence and contribute towards developing robust solutions for brain disorders. </p>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-## Affiliations:
+## Affiliation:
 <p>I am currently serving as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I am pushing the efforts towards uncovering computational principles in the developing mouse cortex through Artificial Intelligence and Computational Neuroimaging.</p>
 
 <p>As an Affiliate Faculty, I co-advise a small research group in the Department of Computer Science | SBASSE, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="55" height="15" /> </a> where we aim to develop a novel deep neural network-based architecture inspired by the mouse visual cortex.</p>
 
 <p>I also serve as a Technical Advisory Board Member in a few tech startups focused on Computer Vision and Machine Learning such as <a href="https://wizlabs.ai/" style="color:#253494">Wizlabs</a> and <a href="https://laam.pk/" style="color:#253494">LAAM</a>.</p>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 ## Education:
 <p>I worked as a Postdoctoral Research Scientist (Summer 2020 - Summer 2021) on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
@@ -69,12 +57,6 @@
   </a>. I worked on developing algorithms to analyse whisker detection in mouse somatosensory tasks through LeapMotion device.
 </p>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 ## Research Interests:
 My research interests are broadly categorized into the following:
 - Neuro-inspired Artificial Intelligence
@@ -83,14 +65,6 @@ My research interests are broadly categorized into the following:
 
 <p>In general, I have been working on exploring the computational principles of cortical neurons in the developing mouse brain. Some of my recent efforts in this direction has resulted into high-throughput deep learning-based tools to analyse large scale brain imaging datasets. </p>
 
-
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 ## Publications (recent):
 <p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset." <b><i>Nature Scientific Data</i></b> 8, 167 (2021).<a href="https://rdcu.be/cnU30" style="color:#253494">[pdf]</a></p>
 
@@ -116,8 +90,7 @@ My research interests are broadly categorized into the following:
 &nbsp;
 &nbsp;
 ## Research Projects:
-&nbsp;
-&nbsp;
+
 ### [SeBRe]: Segmenting Brain Regions with deep learning
 <p><a href="https://www.nature.com/articles/s42256-019-0058-8"><img src="/img/SeBRe_Cover_Hero_Image_NMI-1568x1136.jpg" align="left" width="330" height="215" /> </a>
   <a href="https://www.nature.com/natmachintell/volumes/1/issues/6"><img src="/img/6.png" align="right" width="170" height="215" /> </a>
@@ -134,8 +107,7 @@ We introduce a concept of <b>registration through segmentation</b>: we train a d
 Asim Iqbal, Romesa Khan, and Theofanis Karayannis. "Developing a brain atlas through deep learning." 
 Nature Machine Intelligence 1.6 (2019): 277-287.
 ```
-&nbsp;
-&nbsp;
+
 ### [DeNeRD]: Detecting Neurons in Regions of Development with deep learning
 <p><a href="https://twitter.com/nresearchnews/status/1178761193722392576"><img src="https://pbs.twimg.com/media/EFvNDwjWsAEwGyN?format=jpg&name=medium" align="left" width="250" height="140" /> </a>
   <a href="https://medicalxpress.com/news/2019-10-denerd-ai-based-method-images-brain.html"><img src="https://scx2.b-cdn.net/gfx/news/hires/2019/denerdanaiba.jpg" align="right" width="250" height="120" /> </a>
@@ -152,8 +124,7 @@ Our study is published in <i>Scientific Reports</i> and made it to the <i>Top 10
 Asim Iqbal, Asfandyar Sheikh, and Theofanis Karayannis. "DeNeRD: high-throughput detection of neurons for brain-wide analysis with deep learning." 
 Scientific Reports 9.1 (2019): 1-13.
 ```
-&nbsp;
-&nbsp;
+
 ### Exploring the functional and anatomical motifs of developing mouse somatosensory cortex
 <p><a href="https://www.nature.com/articles/s41467-020-19427-z"><img src="/img/SST_P12.png" align="center" width="222" height="180" /> </a>
   <a href="https://www.nature.com/articles/s41467-020-19427-z"><img src="/img/SST_P21.png" align="center" width="222" height="200" /> </a>
@@ -171,11 +142,6 @@ Rahel Kastli, Rasmus Vighagen, Alexander van der Bourg, Ali Ozgur Argunsah,
 Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. 
 "Developmental Divergence of Sensory Stimulus Representation in Cortical Interneurons." Nature Communications (2020).
 ```
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 ## Code:
 <p>
