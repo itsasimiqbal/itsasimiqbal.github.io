@@ -1,5 +1,5 @@
 ## About Me:
-<p> A Computational Neuroscientist by training and a Machine Learner Engineer in practice. I aim to understand the anatomical and functional mysteries of brain to build rodent (and some day human)-level Artificial Intelligence and contribute towards developing robust solutions for brain disorders. </p>
+<p> A Computational Neuroscientist by training and a Machine Learnning Engineer in practice. I aim to understand the anatomical and functional mysteries of brain to build rodent (and some day human)-level Artificial Intelligence and contribute towards building robust solutions for brain disorders. </p>
 
 ## Affiliation:
 <p>I am currently serving as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I am pushing the efforts towards uncovering computational principles in the developing mouse cortex through Artificial Intelligence and Computational Neuroimaging.</p>
