@@ -166,8 +166,6 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 
 ## News:
-- <p>Starting Fall 2021, my cruise is steering towards industry on an exciting journey in the field of Machine Learning and Computational Neuroimaging (details coming soon).</p>
-
 - <p> I am invited as a speaker at the <a href="https://www.neuroscience.uzh.ch/en/symposium.html" style="color:#253494"><b>ZNZ Symposium 2021</b></a> <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.neuroscience.uzh.ch/dam/jcr:2f1748ed-c3b3-44ea-9ed2-7c968cc67a04/2021_ZNZ_webbild_1800x1200.jpg" align="right" width="65" height="50" /> </a> in the Machine learning in Neuroscience and Neuroimaging workshop, organised by the University of Zurich and ETH Zurich.</p>
 
 - <p>Our paper <a href="https://www.nature.com/articles/s41597-021-00946-3" style="color:#253494"><b>An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset</b></a> <a href="https://feta-2021.grand-challenge.org/"><img src="https://grand-challenge-public-prod.s3.amazonaws.com/i/2021/04/23/miccai2021_logo.png" align="right" width="70" height="32" /> </a> is featured in the Fetal Tissue Annotation Challenge by <b>MICCAI 2021</b>, sponsored by <b>NVIDIA</b>.</p>
