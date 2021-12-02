@@ -166,7 +166,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 
 ## News:
-- <p> I joined the SCI-AI Podcast to discuss 'How do AI and Neuroscience benefit each other?' <a href="https://youtu.be/JJ4nfTxUCuM"><img src="https://external.fzrh1-1.fna.fbcdn.net/safe_image.php?d=AQGfBG2dXC_QCJk-&w=1000&h=522&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJJ4nfTxUCuM%2Fmaxresdefault.jpg&cfs=1&ext=jpg&_nc_eui2=AeEdn4hMh1HjUsWS-Gdo02OyqkhzjxFEWR-qSHOPEURZH7Zx1OOyvU0Axq4QsaqJQ2c&_nc_oe=6f239&_nc_sid=06c271&ccb=3-5&_nc_hash=AQEvdiQegqzMqD30" align="right" width="95" height="50" /> </a></p>
+- <p> I joined the SCI-AI Podcast to discuss 'How do AI and Neuroscience benefit each other?' <a href="https://youtu.be/JJ4nfTxUCuM"><img src="https://external.fzrh1-1.fna.fbcdn.net/safe_image.php?d=AQGfBG2dXC_QCJk-&w=1000&h=522&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJJ4nfTxUCuM%2Fmaxresdefault.jpg&cfs=1&ext=jpg&_nc_eui2=AeEdn4hMh1HjUsWS-Gdo02OyqkhzjxFEWR-qSHOPEURZH7Zx1OOyvU0Axq4QsaqJQ2c&_nc_oe=6f239&_nc_sid=06c271&ccb=3-5&_nc_hash=AQEvdiQegqzMqD30" align="right" width="70" height="37" /> </a></p>
 
 - <p> I am invited as a speaker at the <a href="https://www.neuroscience.uzh.ch/en/symposium.html" style="color:#253494"><b>ZNZ Symposium 2021</b></a> <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.neuroscience.uzh.ch/dam/jcr:2f1748ed-c3b3-44ea-9ed2-7c968cc67a04/2021_ZNZ_webbild_1800x1200.jpg" align="right" width="65" height="50" /> </a> in the Machine learning in Neuroscience and Neuroimaging workshop, organised by the University of Zurich and ETH Zurich.</p>
 
