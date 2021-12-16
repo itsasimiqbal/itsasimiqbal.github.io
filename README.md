@@ -4,7 +4,7 @@
 ## Affiliation:
 <p>I am currently serving as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I am pushing the efforts towards uncovering computational principles in the developing mouse cortex through Artificial Intelligence and Computational Neuroimaging.</p>
 
-<p>As an Affiliate Faculty, I co-advise a small research group in the Department of Computer Science | SBASSE, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="55" height="15" /> </a> where we aim to develop a novel deep neural network-based architecture inspired by the mouse visual cortex.</p>
+<p>As an Affiliate Faculty, I co-advise a small research group in the Department of Computer Science | SBASSE, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="55" height="15" /> </a> where we aim to develop a novel deep neural network-based architecture inspired by the mouse visual cortex. I also serve as an Affiliate Faculty at <a href="https://www.ecu.edu.au/schools/engineering/overview"><img src="https://www.pngkit.com/png/full/330-3301403_ecu-school-of-engineering-edith-cowan-university-logo.png" width="55" height="15" /> </a> where I co-advise a small research group to develop domain adaptive deep neural networks for neuroimaging datasets.</p>
 
 <p>I also serve as a Technical Advisory Board Member in a few tech startups focused on Computer Vision and Machine Learning such as <a href="https://wizlabs.ai/" style="color:#253494">Wizlabs</a> and <a href="https://laam.pk/" style="color:#253494">LAAM</a>.</p>
 
@@ -166,6 +166,8 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 &nbsp;
 
 ## News:
+- <p> Starting Fall 2021, I am joining <a href="https://cajalneuro.com/" style="color:#253494"><b>Cajal Neuroscience</b></a> as a Lead Machine Learning Scientist to discover novel solutions for neurodegenerative disorders through Computational Neuroimaging and AI. <a href="https://www.cajalneuro.com/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQG7X9sIfJ5eaQ/company-logo_200_200/0/1603774306071?e=2159024400&v=beta&t=YzMBt8bFTSRXRuj7IMvKNL2E9K6qelZSflgaKyI49Zc" align="right" width="65" height="62" /> </a></p>
+
 - <p> I joined the <a href="https://youtu.be/JJ4nfTxUCuM" style="color:#253494"><b>SCI-AI Podcast</b></a> to discuss 'How do AI and Neuroscience benefit each other?' <a href="https://youtu.be/JJ4nfTxUCuM"><img src="https://i.ytimg.com/vi/JJ4nfTxUCuM/mqdefault.jpg" align="right" width="65" height="38" /> </a></p>
 
 - <p> I am invited as a speaker at the <a href="https://www.neuroscience.uzh.ch/en/symposium.html" style="color:#253494"><b>ZNZ Symposium 2021</b></a> <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.neuroscience.uzh.ch/dam/jcr:2f1748ed-c3b3-44ea-9ed2-7c968cc67a04/2021_ZNZ_webbild_1800x1200.jpg" align="right" width="65" height="50" /> </a> in the Machine learning in Neuroscience and Neuroimaging workshop, organised by the University of Zurich and ETH Zurich.</p>
