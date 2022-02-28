@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: <p style="text-align:center;color:black;" class="view">Asim Iqbal, PhD<br></p>
 logo: img/asim-ini.jpg
-description: <p style="text-align:center;color:black;" class="view">Machine Learning Neuro-Scientist<br></p>
+description: <p style="text-align:center;color:black;" class="view">Lead ML Scientist<br></p>
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
