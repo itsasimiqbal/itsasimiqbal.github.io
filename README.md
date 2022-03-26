@@ -2,7 +2,7 @@
 <p> A Computational Neuroscientist by training and a Machine Learning Engineer in practice. I aim to understand the anatomical and functional mysteries of brain to build rodent (and some day human)-level Artificial Intelligence and contribute towards building robust solutions for brain disorders. </p>
 
 ## Affiliation:
-<p>I am working as a Lead Machine Learning Scientist at <a href="https://cajalneuro.com/"><img src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/560/100/original/Black.png?1607644311" width="95" height="25" /> </a> where I am pushing the efforts towards discovering novel solutions for neurodegenerative disorders through Artificial Intelligence and Computational Neuroimaging.</p>
+<p>I am working as a Lead Machine Learning Scientist at <a href="https://cajalneuro.com/"><img src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/560/100/original/Black.png?1607644311" width="95" height="25" /> </a> where I am pushing the efforts towards discovering novel solutions for neurodegenerative disorders through AI-based drug discovery.</p>
 
 
 <p>I also serve as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I assist in uncovering computational principles in the developing mouse cortex through Machine Learning.</p>
@@ -219,9 +219,10 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 
 #### Supervised Students:
 
-- Valentin Bruttin (M.Sc. Life Sciences & Engineering, EPFL) - Master Thesis
+- Hisan Naeem (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Ahmed Qazi (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Hamd Jalil (B.Sc. Computer Science, LUMS) - Bachelor Thesis
+- Valentin Bruttin (M.Sc. Life Sciences & Engineering, EPFL) - Master Thesis
 - Ella McPherson (M.Sc. Health Sciences and Technology, ETH Zurich) - Internship
 - Ali Bukhari (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Hamza Khalid (B.Sc. Computer Science, LUMS) - Internship
