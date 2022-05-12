@@ -217,18 +217,21 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 - Programming in Biology (Fall 2018), UZH/ETH Zurich
 - Neuroscience Block Course (Spring 2017), UZH/ETH Zurich
 
-#### Supervised Students:
-
+#### Current Students:
+- Ran Liu (Ph.D. Electrical & Computer Engineering, Georgia Tech) - ML Intern
+- Sam Glaser (B.Sc. Computer Science, Tufts University) - SWE Intern
 - Hisan Naeem (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Ahmed Qazi (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Hamd Jalil (B.Sc. Computer Science, LUMS) - Bachelor Thesis
+
+#### Supervised (Past) Students:
 - Valentin Bruttin (M.Sc. Life Sciences & Engineering, EPFL) - Master Thesis
-- Ella McPherson (M.Sc. Health Sciences and Technology, ETH Zurich) - Internship
+- Ella McPherson (M.Sc. Health Sciences and Technology, ETH Zurich) - Comp Neuro Intern
 - Ali Bukhari (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Hamza Khalid (B.Sc. Computer Science, LUMS) - Internship
-- Namra Aamir (B.Sc. Biology, LUMS) - Internship
+- Namra Aamir (B.Sc. Biology, LUMS) - Comp Neuro Intern
 - Romesa Khan (M.Sc. Neuroscience, ETH Zurich) - Master Thesis
-- Asfandyar Shiekh (B.Sc. Electrical Engineering, ETH Zurich) - Internship
+- Asfandyar Shiekh (B.Sc. Electrical Engineering, ETH Zurich) - ML Intern
 - Markus Suter (M.Sc. Neuroscience, UZH) Master Thesis Co-supervised
 - Laurens Bohlen (M.Sc. Neuroscience, UZH) Neuroscience Block Course
 - Victor Ibañez (M.Sc. Neuroscience, UZH) Neuroscience Block Course
