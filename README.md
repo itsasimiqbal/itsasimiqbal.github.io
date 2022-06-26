@@ -218,13 +218,12 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 - Neuroscience Block Course (Spring 2017), UZH/ETH Zurich
 
 #### Current Students:
-- Ran Liu (Ph.D. Electrical & Computer Engineering, Georgia Tech) - ML Intern
-- Sam Glaser (B.Sc. Computer Science, Tufts University) - SWE Intern
+- Taha Razzaq (M.Sc. Computer Science, LUMS) - Master Thesis
 - Hisan Naeem (B.Sc. Computer Science, LUMS) - Bachelor Thesis
-- Ahmed Qazi (B.Sc. Computer Science, LUMS) - Bachelor Thesis
-- Hamd Jalil (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 
 #### Supervised (Past) Students:
+- Ahmed Qazi (B.Sc. Computer Science, LUMS) - Bachelor Thesis
+- Hamd Jalil (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Valentin Bruttin (M.Sc. Life Sciences & Engineering, EPFL) - Master Thesis
 - Ella McPherson (M.Sc. Health Sciences and Technology, ETH Zurich) - Comp Neuro Intern
 - Ali Bukhari (B.Sc. Computer Science, LUMS) - Bachelor Thesis
