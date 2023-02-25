@@ -34,7 +34,7 @@
 </p>
 
 <p> In Summer of 2018, I attended Summer Workshop on the Dynamic Brain (SWDB) at
-  <a href="https://alleninstitute.org/what-we-do/brain-science/"><img src="https://www.alleninstitute.org/static/images/logo_BS_header.png" width="90" height="20" /> </a>
+  <a href="https://alleninstitute.org/what-we-do/brain-science/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPTK99dew2kZQN79eZuVD9i_tYinP7AcSxQ&usqp=CAU" width="50" height="20" /> </a>
   and
   <a href="https://www.washington.edu/"><img src="https://depts.washington.edu/mcklab/images/UW%20logo.jpg" width="90" height="20" /> </a>
   in Seattle, Washington and worked on developing a deep neural network-based decoder to predict neural responses in mouse visual cortex.
