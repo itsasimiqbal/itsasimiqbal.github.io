@@ -1,24 +1,22 @@
 ## About Me:
-<p> A Computational Neuroscientist by training and a Machine Learning Engineer in practice. I aim to understand the anatomical and functional mysteries of brain to build rodent (and some day human)-level Artificial Intelligence and contribute towards building robust solutions for brain disorders. </p>
+<p> With a background in Machine Learning and Neuroscience, I aim to understand the anatomical and functional mysteries of brain to build robust solutions for brain disorders. </p>
 
 ## Affiliation:
-<p>I am working as a Lead Machine Learning Scientist at <a href="https://cajalneuro.com/"><img src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/560/100/original/Black.png?1607644311" width="95" height="25" /> </a> where I am pushing the efforts towards discovering novel solutions for neurodegenerative disorders through AI-based drug discovery.</p>
 
-
-<p>I also serve as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I assist in uncovering computational principles in the developing mouse cortex through Machine Learning.</p>
+<p>I serve as a Visiting Research Scientist at the Brain Research Institute (HiFo) and Neuroscience Center Zurich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a> where I assist in uncovering computational principles in the developing mouse cortex through deep generative models.</p>
 
 <p>As an Affiliate Faculty, I co-advise a small research group in my free time at the Department of Computer Science, <a href="https://sbasse.lums.edu.pk/department-of-computer-science"><img src="https://arawireless.org/wp-content/uploads/2021/05/lums-logo.png" width="55" height="15" /> </a> and <a href="https://www.ecu.edu.au/schools/engineering/overview"><img src="https://www.pngkit.com/png/full/330-3301403_ecu-school-of-engineering-edith-cowan-university-logo.png" width="55" height="15" /> </a>. We develop high-performing deep neural networks inspired by the mouse visual cortex and domain adaptive deep learning models for neuroimaging datasets.</p>
 
 <p>I also serve as a Scientific Advisory Board Member in a few tech startups focusing on Computer Vision and Machine Learning such as <a href="https://wizlabs.ai/" style="color:#253494">Wizlabs</a> and <a href="https://laam.pk/" style="color:#253494">LAAM</a>.</p>
 
-## Education:
-<p>I worked as a Postdoctoral Research Scientist (Summer 2020 - Summer 2021) on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
+## Prior Experiences:
+<p>I worked as a Postdoctoral Research Scientist (2020-2021) on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
 
 <p>Prior to this, I completed my PhD (Fall 2016 - Fall 2019) in the field of <b>Computational Neuroscience</b> and <b>Machine Learning</b> on the topic: '<b>Exploring the principles of brain-wide development through deep learning</b>' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a>. My PhD thesis was advised by <a href="https://znznews.ch/understanding-the-developing-brain/" style="color:#253494">Prof. Theofanis Karayannis</a> along with <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html" style="color:#253494">Prof. Mehmet Fatih Yanik</a> as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
 
 <p> Before starting my PhD, I studied <b>Electrical Engineering</b> (2006-2010) as an undergrad followed by a Masters (2013-2015) in <b>Neural Systems and Computation</b> at the Institute of Neuroinformatics (
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
-  ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on '<b>Enhancing scale-invariance in a convolutional neural network</b>' as a thesis project by introducing a neuro-inspired layer in the deep neural network that mimics the functionality of complex cells in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor. My Master thesis was advised by <a href="http://sensors.ini.uzh.ch/shih-chii.html" style="color:#253494">Prof. Shih-Chii Liu</a>, <a href="https://ee.ethz.ch/the-department/people-a-z/person-detail.OTIxMzQ=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html" style="color:#253494">Prof. Tobi Delbruck</a> and <a href="https://ee.ethz.ch/the-department/faculty/emeriti-professors/contact-details.NzkyOTQ=.TGlzdC8xODc5LC05MjU0NzU1MDE=.html" style="color:#253494">Prof. Rodney Douglas</a>.</p>
+  ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on '<b>Enhancing scale-invariance in a convolutional neural network</b>' as a thesis project by introducing a neuro-inspired layer in the deep neural network that mimics the functionality of complex cells in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor.
 
 &nbsp;
 &nbsp;
@@ -27,7 +25,9 @@
 &nbsp;
 
 ## Research Experience:
-<p> From Summer 2019 to Spring 2020, I worked as an Artificial Intelligence (AI) Resident on a NeuroMoonshot at 
+<p>In past, I worked as a Lead Machine Learning Scientist (2021-2022) at <a href="https://cajalneuro.com/"><img src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/560/100/original/Black.png?1607644311" width="95" height="25" /> </a> for discovering novel solutions for neurodegenerative disorders through AI-based drug discovery.</p>
+
+<p> From Summer 2019 to Spring 2020, I worked as a Machine Learning Scientist Intern on a NeuroMoonshot (Project Amber) at 
   <a href="https://research.google/"><img src="img/google_logo.png" width="60" height="20" /> </a>
   <a href="https://x.company/"><img src="img/X.png" width="23" height="22" /> </a>
   - The Moonshot Factory, Mountain View, California.
@@ -55,7 +55,7 @@
   </a>at Cambridge, Massachusetts. I worked on predicting neural responses in primate visual cortex through performance optimized deep neural networks.
 </p>
 
-<p> From 2013 to 2014, I worked as a Research Assistant with <a href="http://www.chen-lab.org/index.html" style="color:#253494">Prof. Jerry Chen</a> and <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> at Brain Research Institute, 
+<p> From 2013 to 2014, I worked as a Research Assistant in <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen's lab</a> at the Brain Research Institute, 
   <a href="http://hifo.uzh.ch/"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" />
   </a>. I worked on developing algorithms to analyse whisker detection in mouse somatosensory tasks through LeapMotion device.
 </p>
@@ -68,7 +68,7 @@ My research interests are broadly categorized into the following:
 
 <p>In general, I have been working on exploring the computational principles of cortical neurons in the developing mouse brain. Some of my recent efforts in this direction has resulted into high-throughput deep learning-based tools to analyse large scale brain imaging datasets. </p>
 
-## Publications (recent):
+## Publications:
 <p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset." <b><i>Nature Scientific Data</i></b> 8, 167 (2021).<a href="https://rdcu.be/cnU30" style="color:#253494">[pdf]</a></p>
 
 <p>Rahel Kastli*, Rasmus Vighagen*, Alexander van der Bourg*, Ali Ozgur Argunsah*, <b>Asim Iqbal</b>, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmchen, and Theofanis Karayannis. "Developmental divergence of sensory stimulus representation in cortical interneurons." <b><i>Nature Communications</i></b> 11, 5729 (2020).<a href="https://rdcu.be/caHox" style="color:#253494">[pdf]</a></p>
@@ -170,7 +170,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 
 ## News:
 
-- <p>I participated in the '<a href="https://gdsc.community.dev/events/details/developer-student-clubs-eth-zurich-presents-internship-experience-panel-discussion-with-interns-at-google/" style="color:#253494"><b>Panel Discussion with Interns at Google</b></a>' as an invited speaker at the event of <a href="https://gdsc.community.dev/" style="color:#253494"><b>Google Developers Student Clubs, organised by ETH Zurich and Kings College London.</b></a><a href="https://gdsc.community.dev/events/details/developer-student-clubs-eth-zurich-presents-internship-experience-panel-discussion-with-interns-at-google/"><img src="https://media.licdn.com/dms/image/D4E1EAQFZMke-vemTxg/event-background-image-crop_720_1280/0/1677601757058?e=1678827600&v=beta&t=UhaFsZv1cSlkV1N5TeLFeB8fuSUn56tREi4QCHI7zBQ" align="right" width="65" height="38" /> </a></p>
+- <p>I participated in the '<a href="https://gdsc.community.dev/events/details/developer-student-clubs-eth-zurich-presents-internship-experience-panel-discussion-with-interns-at-google/" style="color:#253494"><b>Panel Discussion with Interns at Google</b></a>' as an invited speaker at the event of <a href="https://gdsc.community.dev/" style="color:#253494"><b>Google Developers Student Clubs, organised by ETH Zurich and Kings College London.</b></a><a href="https://gdsc.community.dev/events/details/developer-student-clubs-eth-zurich-presents-internship-experience-panel-discussion-with-interns-at-google/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" align="right" width="65" height="23" /> </a></p>
 
 - <p>I gave a talk on '<a href="https://sbasse.lums.edu.pk/mapping-neural-development-through-ai" style="color:#253494"><b>Mapping Neural Development through Artificial Intelligence</b></a>' as an invited speaker at the <a href="https://sbasse.lums.edu.pk/" style="color:#253494"><b>SBASSE, LUMS</b></a><a href="https://sbasse.lums.edu.pk/mapping-neural-development-through-ai"><img src="https://sbasse.lums.edu.pk/sites/default/files/styles/image_crop_3_2_860x573/public/2022-03/Mapping%20Neural%20Development%20through%20Artificial%20Intelligence..png" align="right" width="65" height="55" /> </a></p>
 
@@ -200,7 +200,7 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 
 - <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://sciglow.com/developing-brain-maps-through-artificial-intelligence/"><img src="img/NMI_sample_1-970x515.jpg" align="right" width="100" height="50" /> </a> is featured by <b>SciGlow</b> in <b>Developing brain maps through artificial intelligence</b>.</p>
 
-- <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://swisscognitive.ch/2019/06/25/how-deep-learning-is-transforming-brain-mapping/"><img src="https://www.e-zigurat.com/innovation-school/wp-content/uploads/sites/5/2017/10/swisscognitive-logo-cmyk.jpg" align="right" width="90" height="50" /> </a> is featured by <b>Swiss Cognitive</b> in <b>Thanks to deep learning, the tricky business of making brain atlases just got a lot easier</b>.</p>
+- <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://swisscognitive.ch/2019/06/25/how-deep-learning-is-transforming-brain-mapping/"><img src="https://swisscognitive.ch/wp-content/uploads/2022/03/SwissCognitive_Logo_Subline_RGB.png" align="right" width="130" height="50" /> </a> is featured by <b>Swiss Cognitive</b> in <b>Thanks to deep learning, the tricky business of making brain atlases just got a lot easier</b>.</p>
 
 - <p><a href="https://rdcu.be/b4DfW" style="color:#253494"><b>SeBRe</b></a> <a href="https://singularityhub.com/2019/06/24/how-deep-learning-is-transforming-brain-mapping/"><img src="https://pbs.twimg.com/profile_images/808802669200625664/dgwkn8Yg_400x400.jpg" align="right" width="50" height="50" /> </a> is featured by <b>Singularity Hub</b> in <b>How Deep Learning Is Transforming Brain Mapping</b>.</p>
 
@@ -220,10 +220,12 @@ Asim Iqbal, Fabian F. Voigt, Daniel Kirschenbaum, Adriano Aguzzi, Fritjof Helmch
 - Neuroscience Block Course (Spring 2017), UZH/ETH Zurich
 
 #### Current Students:
+- Eunseo Sung (M.Sc. Comp Bio, Cornell University) - AI Intern
+- Abdul Basit (M.Sc. Computer Science, LUMS) - Master Thesis
+  
+#### Supervised (Past) Students:
 - Taha Razzaq (M.Sc. Computer Science, LUMS) - Master Thesis
 - Hisan Naeem (B.Sc. Computer Science, LUMS) - Bachelor Thesis
-
-#### Supervised (Past) Students:
 - Ahmed Qazi (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Hamd Jalil (B.Sc. Computer Science, LUMS) - Bachelor Thesis
 - Valentin Bruttin (M.Sc. Life Sciences & Engineering, EPFL) - Master Thesis
