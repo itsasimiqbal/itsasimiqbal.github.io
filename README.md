@@ -9,7 +9,7 @@
 
 <p>I also serve as a Scientific Advisory Board Member in a few tech startups focusing on Computer Vision and Machine Learning such as <a href="https://wizlabs.ai/" style="color:#253494">Wizlabs</a> and <a href="https://laam.pk/" style="color:#253494">LAAM</a>.</p>
 
-## Prior Experiences:
+## Education:
 <p>I worked as a Postdoctoral Research Scientist (2020-2021) on the intersection of AI and Neuroscience in <a href="http://www.mousemotorlab.org/" style="color:#253494">Mathis Lab</a>, <a href="https://www.epfl.ch/research/domains/cis/" style="color:#253494">Center for Intelligent Systems (CIS) | ELLIS Unit</a>, Swiss Federal Institute of Technology <a href="https://www.epfl.ch/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/330px-Logo_EPFL.svg.png" width="48.75" height="15" /></a>.</p>
 
 <p>Prior to this, I completed my PhD (Fall 2016 - Fall 2019) in the field of <b>Computational Neuroscience</b> and <b>Machine Learning</b> on the topic: '<b>Exploring the principles of brain-wide development through deep learning</b>' at Institut für Hirnforschung (HiFo) and Zentrum für Neurowissenschaften Zürich (ZNZ), <a href="https://www.neuroscience.uzh.ch/en.html"><img src="https://www.logolynx.com/images/logolynx/8d/8d76c0d2be0c548466bb3180b9caa83a.jpeg" width="110" height="25" /> </a>. My PhD thesis was advised by <a href="https://znznews.ch/understanding-the-developing-brain/" style="color:#253494">Prof. Theofanis Karayannis</a> along with <a href="https://www.hifo.uzh.ch/en/research/helmchen.html" style="color:#253494">Prof. Fritjof Helmchen</a> and <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.MjAzNTMz.TGlzdC80MTEsMTA1ODA0MjU5.html" style="color:#253494">Prof. Mehmet Fatih Yanik</a> as advisory committe members. The focus of my PhD project was to develop deep learning-based tools to analyse neuro-imaging datasets which includes detection of neurons and generating an automated atlas for developing mouse and human brain sections captured through various imaging modalities. Morover, I worked on explaining the functional and anatomical correlates of neural responses in the mouse somatosensory and visual cortex.</p>
@@ -63,10 +63,7 @@
 ## Research Interests:
 My research interests are broadly categorized into the following:
 - Neuro-inspired Artificial Intelligence
-- Neuroimaging with Deep Learning
-- Deep Reinforcement Learning
-
-<p>In general, I have been working on exploring the computational principles of cortical neurons in the developing mouse brain. Some of my recent efforts in this direction has resulted into high-throughput deep learning-based tools to analyse large scale brain imaging datasets. </p>
+- Domain Generalization
 
 ## Publications:
 <p>Payette, Kelly, Priscille de Dumast, Hamza Kebiri, Ivan Ezhov, Johannes C. Paetzold, Suprosanna Shit, <b>Asim Iqbal</b> et al. "An automatic multi-tissue human fetal brain segmentation benchmark using the Fetal Tissue Annotation Dataset." <b><i>Nature Scientific Data</i></b> 8, 167 (2021).<a href="https://rdcu.be/cnU30" style="color:#253494">[pdf]</a></p>
