@@ -16,7 +16,7 @@
 
 <p> Before starting my PhD, I studied <b>Electrical Engineering</b> (2006-2010) as an undergrad followed by a Masters (2013-2015) in <b>Neural Systems and Computation</b> at the Institute of Neuroinformatics (
   <a href="http://www.ini.ethz.ch/"><img src="https://www.ini.uzh.ch/dam/jcr:b79ff425-53c5-4c72-83bd-93e81d3c6e94/neuroman_large.jpg" width="15" height="20" /> </a>
-  ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on '<b>Enhancing scale-invariance in a convolutional neural network</b>' as a thesis project by introducing a neuro-inspired layer in the deep neural network that mimics the functionality of complex cells in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor.
+  ), Department of IT and Electrical Engineering (D-ITET), ETH Zürich and worked on '<b>Enhancing scale-invariance in a convolutional neural network</b>' as a thesis project by introducing a neuro-inspired layer in the deep neural network that mimics the functionality of complex cells in the visual cortex. Moreover, I developed a robust framework to detect very fast moving objects in real-time through frame-based running deep neural network with an interface to a spike-based running neuromorphic retina sensor.</p>
 
 &nbsp;
 &nbsp;
